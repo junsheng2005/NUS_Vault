@@ -3,6 +3,7 @@
   "baseFontSize": 20,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
+    "imagealign",
     "scroll-blocks"
   ]
 }
