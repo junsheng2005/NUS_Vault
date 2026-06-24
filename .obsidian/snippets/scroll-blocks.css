@@ -1,0 +1,14 @@
+/* Enable horizontal scrolling in Code Blocks */
+.markdown-rendered code[class*="language-"], 
+pre[class*="language-"] {
+    overflow-x: auto !important;
+    white-space: pre !important;
+}
+
+/* Enable horizontal scrolling in Display Math */
+mjx-container[jax="CHTML"][display="true"] {
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    white-space: nowrap !important;
+    display: block !important;
+}
