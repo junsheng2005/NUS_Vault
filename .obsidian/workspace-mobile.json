@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "95709d51cffcca25",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc7a0042541e3e91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd7db258c7338753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS1010E/12. Error and Exception Handling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. Error and Exception Handling"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba01d03e01c2c50f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1beb9090f4a1ed8e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "9a505200e9857e96",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "df29ff802b4e8ac1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "5f7b24f8a54c7a19",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "7073cafa6dcacac0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "11cb62de410ada4e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6c4e8d48dbdc9bb9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "CS1010E/11. Python Object Oriented Programming.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e5b1c065adbced71",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "CS1010E/11. Python Object Oriented Programming.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "79984808742942f3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "CS1010E/11. Python Object Oriented Programming.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "89d91d8f7a760be3",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bd7db258c7338753",
+  "lastOpenFiles": [
+    "CS1010E/12. Error and Exception Handling.md",
+    "CS1010E/11. Python Object Oriented Programming.md",
+    "CS1010E/5. Collections (Part II).md",
+    "Concepts/Chain Rule.md",
+    "MA1505/Attachments/Pasted image 20260607204950.png",
+    "MA1505/Attachments/9. Line Integral-1780887644435.webp",
+    "MA1505/Attachments/9. Line Integral-1780839264440.webp",
+    "MA1505/Attachments/8. Multiple Integrals-1781006694728.webp",
+    "MA1505/Attachments/8. Multiple Integrals-1781006681849.webp",
+    "MA1505/Attachments/8. Multiple Integrals-1780982873022.webp",
+    "MA1505/Attachments/8. Multiple Integrals-1780982518470.webp",
+    "MA1505/Attachments/8. Multiple Integrals-1780982266267.webp",
+    "MA1505/Attachments/8. Multiple Integrals-1780982113514.webp",
+    "MA1505/Attachments/8. Multiple Integrals-1780982042467.webp",
+    "MA1505/9. Line Integral.md",
+    "MA1505/8. Multiple Integrals.md",
+    "MA1505/7. Functions of Several Variables.md",
+    "MA1505/4. Sequences and Series.md",
+    "MA1505/10. Surface Integrals.md",
+    "Concepts/Work Done.md",
+    "Concepts/Vector Field.md",
+    "Concepts/Tangent Planes.md",
+    "Concepts/Surface Integral.md",
+    "Concepts/Stokes Theorem.md",
+    "Concepts/Parametric Surfaces.md",
+    "Concepts/Fundamental Theorem for Calculus.md",
+    "Concepts/Curl and Divergence.md",
+    "CS1010E/9. Higher Order Functions.md",
+    "CS1010E/8. Multi-Dimensional Array.md",
+    "CS1010E/7. Searching, Sorting and Big-O.md",
+    "CS1010E/6. Recursion.md",
+    "CS1010E/4. Collections (Part I).md",
+    "CS1010E/3. Functions.md",
+    "CS1010E/2. Control Structures.md",
+    "CS1010E/10. Map, Filter, Deepmap.md",
+    "MA1505/Attachments",
+    "MA1505",
+    "Concepts",
+    "CS1010E/Attachments",
+    "CS1010E",
+    "Untitled.base"
+  ]
+}
