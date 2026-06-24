@@ -13,13 +13,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS1010E/4. Collections (Part I).md",
+                "file": "CS1010E/12. Error and Exception Handling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Collections (Part I)"
+              "title": "Outline of 12. Error and Exception Handling"
             }
           },
           {
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS1010E/4. Collections (Part I).md",
+                "file": "CS1010E/12. Error and Exception Handling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Collections (Part I)"
+              "title": "12. Error and Exception Handling"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MA1505/10. Surface Integrals.md",
+                "file": "CS1010E/12. Error and Exception Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10. Surface Integrals"
+              "title": "Backlinks for 12. Error and Exception Handling"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MA1505/10. Surface Integrals.md",
+                "file": "CS1010E/12. Error and Exception Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10. Surface Integrals"
+              "title": "Outgoing links from 12. Error and Exception Handling"
             }
           },
           {
@@ -172,21 +172,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MA1505/10. Surface Integrals.md",
+                "file": "CS1010E/12. Error and Exception Handling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10. Surface Integrals"
+              "title": "Outline of 12. Error and Exception Handling"
+            }
+          },
+          {
+            "id": "56a070168cde20c9",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "4b7b5e2a3c7896db",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,9 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2aafc0f432c04ead",
+  "active": "56a070168cde20c9",
   "lastOpenFiles": [
     "CS1010E/12. Error and Exception Handling.md",
+    "CS1010E/4. Collections (Part I).md",
     "CS1010E/11. Python Object Oriented Programming.md",
     "Untitled 1.base",
     "Untitled.base",
@@ -211,7 +232,6 @@
     "Untitled 2.base",
     "CS1010E/10. Map, Filter, Deepmap.md",
     "CS1010E/7. Searching, Sorting and Big-O.md",
-    "CS1010E/4. Collections (Part I).md",
     "CS1010E/2. Control Structures.md",
     "CS1010E/1. Basic Data Types.md",
     "MA1505/8. Multiple Integrals.md",
