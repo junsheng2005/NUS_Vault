@@ -13,27 +13,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS1010E/12. Error and Exception Handling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 12. Error and Exception Handling"
+              "title": "Outline"
             }
           },
           {
             "id": "2aafc0f432c04ead",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "CS1010E/12. Error and Exception Handling.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "12. Error and Exception Handling"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
         ],
@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS1010E/12. Error and Exception Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 12. Error and Exception Handling"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS1010E/12. Error and Exception Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 12. Error and Exception Handling"
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS1010E/12. Error and Exception Handling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 12. Error and Exception Handling"
+              "title": "Outline"
             }
           },
           {
