@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7fdeac3ade1096b0",
+        "id": "89e009e5bc0e047f",
         "type": "tabs",
         "children": [
           {
-            "id": "653cc6104a1a5f16",
+            "id": "62fe2e24ac08c791",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "CS1010E/12. Error and Exception Handling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "2aafc0f432c04ead",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "icon": "lucide-file",
+              "title": "12. Error and Exception Handling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS1010E/12. Error and Exception Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 12. Error and Exception Handling"
             }
           },
           {
@@ -128,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS1010E/12. Error and Exception Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 12. Error and Exception Handling"
             }
           },
           {
@@ -170,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CS1010E/12. Error and Exception Handling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 12. Error and Exception Handling"
             }
           },
           {
@@ -217,11 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2aafc0f432c04ead",
+  "active": "4b7b5e2a3c7896db",
   "lastOpenFiles": [
+    "CS1010E/11. Python Object Oriented Programming.md",
     "CS1010E/12. Error and Exception Handling.md",
     "CS1010E/4. Collections (Part I).md",
-    "CS1010E/11. Python Object Oriented Programming.md",
     "Untitled 1.base",
     "Untitled.base",
     "Untitled 3.base",
