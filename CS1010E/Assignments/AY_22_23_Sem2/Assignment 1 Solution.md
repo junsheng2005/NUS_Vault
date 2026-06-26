@@ -19,3 +19,21 @@ print(compute_bmi())
 
 ---
 # Question 2
+
+```run-python
+def triangle(a, b, c):
+    lst = [a, b, c]
+    x = max(lst)
+    lst.remove(x)
+    if sum(lst) > x:
+        if a == b and a == c:
+            return "Equilateral"
+        elif a == b or a == c or b == c:
+            return "Isosceles"
+        else:
+            return "Scalene"
+    else:
+        return "Not a triangle"
+    
+print(triangle(1,1,2))
+```
