@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0d235e00ddb1d5b7",
+        "id": "2aa689671db8b0fd",
         "type": "tabs",
         "children": [
           {
-            "id": "8b2ec0f322796c51",
+            "id": "58d26e79f1b9b9e9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CS1010E/Assignments/AY_22_23_Sem2/Assignment01_v3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Assignment01_v3"
-            }
-          },
-          {
-            "id": "226047ff6a269afa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CS1010E/Assignments/AY_22_23_Sem2/Assignment2_v2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Assignment2_v2"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,52 +200,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "226047ff6a269afa",
+  "active": "90b734fc8225fcf3",
   "lastOpenFiles": [
-    "CS1010E/Assignments/AY_22_23_Sem2/Assignment01_v3.pdf",
-    "CS1010E/Assignments/AY_22_23_Sem2/Assignment 1 Solution.md",
-    "CS1010E/Assignments/AY_22_23_Sem2/Assignment04_2023.pdf",
-    "CS1010E/Assignments/AY_22_23_Sem2/Assignment03.pdf",
-    "CS1010E/Assignments/AY_22_23_Sem2/Assignment2_v2.pdf",
-    "Concepts/Work Done.md",
-    "CS1010E/Assignments/AY_22_23_Sem2",
-    "CS1010E/12. Error and Exception Handling.md",
-    "CS1010E/Assignments",
-    "MA1505/Attachments/7. Functions of Several Variables-1781095685609.webp",
-    "MA1505/Attachments/8. Multiple Integrals-1780899474520.webp",
-    "CS1010E/11. Python Object Oriented Programming.md",
-    "CS1010E/4. Collections (Part I).md",
-    "Untitled 1.base",
+    "Mods/1K Mods/EG1311",
+    "Mods/1K Mods/GEA1000",
+    "Mods/1K Mods/PF1101A",
+    "Mods/1K Mods/DTK1234",
+    "Mods/1K Mods/ME1103",
+    "Mods/1K Mods/MA1513",
+    "Mods/1K Mods/MA1512",
+    "Untitled.md",
+    "2026-06-26.md",
     "Untitled.base",
-    "Untitled 3.base",
-    "Untitled 4.base",
-    "CS1010E/10. Map, Filter, Deepmap.md",
-    "CS1010E/7. Searching, Sorting and Big-O.md",
-    "CS1010E/2. Control Structures.md",
-    "CS1010E/1. Basic Data Types.md",
-    "MA1505/8. Multiple Integrals.md",
-    "MA1505/9. Line Integral.md",
-    "MA1505/10. Surface Integrals.md",
-    "CS1010E/9. Higher Order Functions.md",
-    "CS1010E/Attachments/10. Map, Filter, Deepmap-1782115660311.webp",
-    "CS1010E/8. Multi-Dimensional Array.md",
-    "CS1010E/Attachments/8. Multi-Dimensional Array-1781951756709.webp",
-    "CS1010E/5. Collections (Part II).md",
-    "CS1010E/Attachments/7. Searching, Sorting and Big-O-1781859740464.webp",
-    "CS1010E/Attachments/7. Searching, Sorting and Big-O-1781859112086.webp",
-    "CS1010E/Attachments/7. Searching, Sorting and Big-O-1781855899197.webp",
-    "CS1010E/Attachments/7. Searching, Sorting and Big-O-1781855284453.webp",
-    "CS1010E/Attachments/7. Searching, Sorting and Big-O-1781854008368.webp",
-    "CS1010E/Attachments/7. Searching, Sorting and Big-O-1781853967500.webp",
-    "CS1010E/6. Recursion.md",
-    "MA1505/7. Functions of Several Variables.md",
-    "CS1010E/3. Functions.md",
+    "Mods/1K Mods/CS1010E/1. Basic Data Types.md",
+    "Untitled.canvas",
+    "Mods/1K Mods",
+    "Mods",
+    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment2_v2.pdf",
+    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 1 Solution.md",
+    "Concepts/Work Done.md",
+    "Mods/1K Mods/CS1010E/12. Error and Exception Handling.md",
+    "Mods/1K Mods/MA1505/Attachments/7. Functions of Several Variables-1781095685609.webp",
+    "Mods/1K Mods/MA1505/Attachments/8. Multiple Integrals-1780899474520.webp",
+    "Mods/1K Mods/CS1010E/11. Python Object Oriented Programming.md",
+    "Mods/1K Mods/CS1010E/4. Collections (Part I).md",
+    "Mods/1K Mods/CS1010E/10. Map, Filter, Deepmap.md",
+    "Mods/1K Mods/CS1010E/7. Searching, Sorting and Big-O.md",
+    "Mods/1K Mods/CS1010E/2. Control Structures.md",
+    "Mods/1K Mods/MA1505/8. Multiple Integrals.md",
+    "Mods/1K Mods/MA1505/9. Line Integral.md",
+    "Mods/1K Mods/MA1505/10. Surface Integrals.md",
+    "Mods/1K Mods/CS1010E/9. Higher Order Functions.md",
+    "Mods/1K Mods/CS1010E/Attachments/10. Map, Filter, Deepmap-1782115660311.webp",
+    "Mods/1K Mods/CS1010E/8. Multi-Dimensional Array.md",
+    "Mods/1K Mods/CS1010E/Attachments/8. Multi-Dimensional Array-1781951756709.webp",
+    "Mods/1K Mods/CS1010E/5. Collections (Part II).md",
+    "Mods/1K Mods/CS1010E/Attachments/7. Searching, Sorting and Big-O-1781859740464.webp",
+    "Mods/1K Mods/CS1010E/Attachments/7. Searching, Sorting and Big-O-1781859112086.webp",
+    "Mods/1K Mods/CS1010E/Attachments/7. Searching, Sorting and Big-O-1781855899197.webp",
+    "Mods/1K Mods/CS1010E/Attachments/7. Searching, Sorting and Big-O-1781855284453.webp",
+    "Mods/1K Mods/CS1010E/Attachments/7. Searching, Sorting and Big-O-1781854008368.webp",
+    "Mods/1K Mods/CS1010E/Attachments/7. Searching, Sorting and Big-O-1781853967500.webp",
+    "Mods/1K Mods/CS1010E/6. Recursion.md",
+    "Mods/1K Mods/MA1505/7. Functions of Several Variables.md",
+    "Mods/1K Mods/CS1010E/3. Functions.md",
     "String.md",
-    "MA1505/4. Sequences and Series.md",
+    "Mods/1K Mods/MA1505/4. Sequences and Series.md",
     "Concepts/Chain Rule.md",
     "Concepts/Surface Integral.md",
-    "Surface Integrals.md",
-    "Concepts/Fundamental Theorem for Calculus.md",
-    "Concepts/Parametric Surfaces.md"
+    "Surface Integrals.md"
   ]
 }
