@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
+                "file": "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 2 Solution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Multiple Integrals"
+              "title": "Assignment 2 Solution"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
+                "file": "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 2 Solution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 8. Multiple Integrals"
+              "title": "Outline of Assignment 2 Solution"
             }
           },
           {
@@ -233,14 +233,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b7b5e2a3c7896db",
+  "active": "ee8263b36c1743b8",
   "lastOpenFiles": [
+    "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
     "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
     "Mods/1K Mods/MA1505/Attachments/8. Multiple Integrals-1780966325691.webp",
     "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
     "Mods/1K Mods/MA1505/Personal Notes/10. Surface Integrals.md",
     "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
-    "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
     "Mods/1K Mods/MA1505/Personal Notes",
     "Mods/1K Mods/MA1505/Lecture Notes/chapter6.pdf",
     "Mods/1K Mods/MA1505/Lecture Notes/chapter7.pdf",

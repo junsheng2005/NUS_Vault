@@ -135,22 +135,23 @@ def deviation(tpl):
 ---
 # Question 8: Anagram
 
+>[!example]- Question
 An anagram is a word formed by rearranging letters of a different word and using all the original letters exactly once. For instance, Listen and Silent are anagram because of the mapping shown in Figure 1.
-
+>
 ![[Assignment 2 Solution-1782562418923.webp]]
-
+>
 Figure 1: Mapping between listen and silent.
-
+>
 Write a function `is_anagram(s1, s2)` that returns `True` if two strings `s1` and `s2` are anagram of each other, or `False` otherwise. You may assume that `s1` and `s2` consists of only lowercase or uppercase letters from the English alphabets.
-
-For example,
-
-- function call `is_anagram('ABC', 'BCA')` returns `True`
-- function call `is_anagram('ABC', 'bca')` returns `False`
-
-You are **NOT allowed** to use any sorting functions provided by Python. Instead, you are supposed to use **dictionary** to solve this question.
-
-Hint: Use dictionary to note down the occurrence of each letter.
+> 
+> For example,
+> 
+> - function call `is_anagram('ABC', 'BCA')` returns `True`
+> - function call `is_anagram('ABC', 'bca')` returns `False`
+> 
+> You are **NOT allowed** to use any sorting functions provided by Python. Instead, you are supposed to use **dictionary** to solve this question.
+> 
+> Hint: Use dictionary to note down the occurrence of each letter.
 
 ```python
 def is_anagram(s1, s2):
@@ -176,20 +177,21 @@ def is_anagram(s1, s2):
 ---
 # Question 9: Merged Sorted Tuples
 
+>[!example]- Question
 **Merge Sort** is an advanced sorting technique that will be introduced in second programming module. Here, we are not going to explain how merge sort works, but focus on one idea engaged in merge sort: merging two sorted tuples into a bigger sorted tuple.
-
-For instance, given two sorted tuples (-1, 1, 3, 5) and (-2, 4, 6, 7), the merged tuple would be (-2, -1, 1, 3, 4, 5, 6, 7).
-
-Write a function `merge(tup1, tup2)` that accepts two sorted tuples as parameters, and returns the merged tuple in which all integers appears in ascending order.
-
-You may assume that
-
-1. `tup1` and `tup2` each contains distinct integers sorted in ascending order.
-2. integers in `tup1` are different from those in `tup2`.
-
-You are **NOT allowed** to do sorting or use any sorting functions provided by Python.
-
-Hint: A smart algorithm just needs a single loop to solve this problem. However, using single loop or nested loop doesn't affect your attempt mark.
+> 
+> For instance, given two sorted tuples (-1, 1, 3, 5) and (-2, 4, 6, 7), the merged tuple would be (-2, -1, 1, 3, 4, 5, 6, 7).
+> 
+> Write a function `merge(tup1, tup2)` that accepts two sorted tuples as parameters, and returns the merged tuple in which all integers appears in ascending order.
+> 
+> You may assume that
+> 
+> 1. `tup1` and `tup2` each contains distinct integers sorted in ascending order.
+> 2. integers in `tup1` are different from those in `tup2`.
+> 
+> You are **NOT allowed** to do sorting or use any sorting functions provided by Python.
+> 
+> Hint: A smart algorithm just needs a single loop to solve this problem. However, using single loop or nested loop doesn't affect your attempt mark.
 
 ```python
 def merge(tup1, tup2):
@@ -219,35 +221,36 @@ def merge(tup1, tup2):
 ---
 # Question 10: Resistors
 
+>[!example]- Question
 In electrical circuits, a resistor is used to reduce the flow of current. Its capability to reduce the flow of current depends on its resistance value, measured on ohm ($\Omega$).
-
-![[Assignment 2 Solution-1782562543300.webp]]
-
-Figure 2: IEC resistor symbol (www.wikipedia.org).
-
-When connected in series, the total resistance is the sum of each individual resistance values.
-
-![[Assignment 2 Solution-1782562553643.webp]]
-
-Figure 3: Resistor connected in series, the equivalent resistance value is $R_{eq} = R_1 + R_2 + \cdots + R_n$.
-
-As an engineer, you are given a sequence of resistors which are already sorted in ascending order of resistance values.
-
-Write a function `resistors(seq, R)` that takes in a tuple of resistors `seq` and a value `R` as parameter. The function checks if any two resistors in `seq` that add up to `R`. It returns `True` if so, or `False` otherwise.
-
-For example, function call `resistors((1, 3, 4), 4)` returns `True` because $1 + 3 = 4$ and function call `resistors((1, 3, 5, 7), 5)` returns `False`.
-
-You may assume that `seq` contains distinct integers sorted in ascending order.
-
-Note: This question can be done using a nested loop. However, such a design is not the best as the program is complex and execution takes longer time. For strong students, you may challenge yourself to use one single loop to solve this question.
-
-**Restrictions
-
-- You are not allowed to modify the input sequence.
-**Assumptions
-
-- `len(seq) >= 2`
-- `seq[i]` contains only positive integers sorted in ascending order
+> 
+> ![[Assignment 2 Solution-1782562543300.webp]]
+> 
+> Figure 2: IEC resistor symbol (www.wikipedia.org).
+> 
+> When connected in series, the total resistance is the sum of each individual resistance values.
+> 
+> ![[Assignment 2 Solution-1782562553643.webp]]
+> 
+> Figure 3: Resistor connected in series, the equivalent resistance value is $R_{eq} = R_1 + R_2 + \cdots + R_n$.
+> 
+> As an engineer, you are given a sequence of resistors which are already sorted in ascending order of resistance values.
+> 
+> Write a function `resistors(seq, R)` that takes in a tuple of resistors `seq` and a value `R` as parameter. The function checks if any two resistors in `seq` that add up to `R`. It returns `True` if so, or `False` otherwise.
+> 
+> For example, function call `resistors((1, 3, 4), 4)` returns `True` because $1 + 3 = 4$ and function call `resistors((1, 3, 5, 7), 5)` returns `False`.
+> 
+> You may assume that `seq` contains distinct integers sorted in ascending order.
+> 
+> Note: This question can be done using a nested loop. However, such a design is not the best as the program is complex and execution takes longer time. For strong students, you may challenge yourself to use one single loop to solve this question.
+> 
+> **Restrictions
+> 
+> - You are not allowed to modify the input sequence.
+> **Assumptions
+> 
+> - `len(seq) >= 2`
+> - `seq[i]` contains only positive integers sorted in ascending order
 
 ```python
 def resistors(seq, R):
@@ -265,62 +268,63 @@ def resistors(seq, R):
 ---
 # Question 11: Ancestry Tree
 
+>[!example]- Question
 All of us may come from different families, but we may share common ancestors! In this question, we will explore the use of a dictionary to model ancestry trees.
-
-Given some ancestry information such as shown in Figure 4, we may list the following information:
-
-![[Assignment 2 Solution-1782562671672.webp]]
-
-
-We may easily construct the _graphical representation_ of the ancestry tree 
-(_right_) and we can also construct a dictionary to represent our ancestry tree:
-
-``` python
-tree = {
-    'Amy': 'Ben', 'Tom': 'Ben', 'Frank': 'Amy',
-    'May': 'Tom', 'Ben': 'Howard', 'Howard': 'George'
-}
-```
-
-In the dictionary above, the _keys_ of the dictionary represent the _child_ while the _values_ of the dictionary represent the _parent_. You can check that indeed Ben is Amy's parent since given the key `'Amy'` it gives us the value `'Ben'` (i.e., `tree['Amy'] == 'Ben'`).
-
-**Assumptions
-
-- Every name in the dictionary is unique.
-- Every person has at most one parent.
-- Your code should work any ancestry tree.
-- There will be no cycle (_i.e., I am my own grandparent scenario_).
-
-**Restrictions
-
-- The dictionary `tree` should not be modified.
-
-**Find your Ancestor
-
-Write a function `find_ancestor(name, tree)` that returns the ancestor of `name`. You may assume that `name` belongs to the ancestry `tree`.
-
-For example, function call `find_ancestor('Amy', tree)` will return `'George'`.
-
-**Are They Related?
-
-Two people are related if they share a common ancestor in the ancestry tree. In the example ancestry tree given above, any two _distinct_ people are related to one another. For instance, Amy and Tom are related since they share a common ancestor George. Additionally, Ben and Howard are related since they share a common ancestor George.
-
-On the other hand, if we introduce a new person Luna with no ties to anyone in the given tree above, then Luna is not related to anyone else. By convention, a person must be related to himself/herself.
-
-Write the function `is_related(name1, name2, tree)` to check if the person `name1` is related to the person `name2` in the ancestry tree `tree`. The function returns `True` if so, or `False` otherwise.
-
-You may assume that `name1` is different from `name2`.
-
-Consider the following modified ancestry tree:
-
-``` python
-tree2 = {
-    'Amy' : 'Ben'   , 'Tom'  : 'Ben'  , 'Frank' : 'Amy',
-    'May' : 'Tom'   , 'Ben'  : 'Howard', 'Howard': 'George',
-    'Joe' : 'Bill'  , 'Bill' : 'Mary' , 'Zoe'   : 'Mary',
-    'Mary': 'Philip', 'Simon': 'Bill'
-}
-```
+> 
+> Given some ancestry information such as shown in Figure 4, we may list the following information:
+> 
+> ![[Assignment 2 Solution-1782562671672.webp]]
+> 
+> 
+> We may easily construct the _graphical representation_ of the ancestry tree 
+> (_right_) and we can also construct a dictionary to represent our ancestry tree:
+> 
+> ``` python
+> tree = {
+>     'Amy': 'Ben', 'Tom': 'Ben', 'Frank': 'Amy',
+>     'May': 'Tom', 'Ben': 'Howard', 'Howard': 'George'
+> }
+> ```
+> 
+> In the dictionary above, the _keys_ of the dictionary represent the _child_ while the _values_ of the dictionary represent the _parent_. You can check that indeed Ben is Amy's parent since given the key `'Amy'` it gives us the value `'Ben'` (i.e., `tree['Amy'] == 'Ben'`).
+> 
+> **Assumptions
+> 
+> - Every name in the dictionary is unique.
+> - Every person has at most one parent.
+> - Your code should work any ancestry tree.
+> - There will be no cycle (_i.e., I am my own grandparent scenario_).
+> 
+> **Restrictions
+> 
+> - The dictionary `tree` should not be modified.
+> 
+> **Find your Ancestor
+> 
+> Write a function `find_ancestor(name, tree)` that returns the ancestor of `name`. You may assume that `name` belongs to the ancestry `tree`.
+> 
+> For example, function call `find_ancestor('Amy', tree)` will return `'George'`.
+> 
+> **Are They Related?
+> 
+> Two people are related if they share a common ancestor in the ancestry tree. In the example ancestry tree given above, any two _distinct_ people are related to one another. For instance, Amy and Tom are related since they share a common ancestor George. Additionally, Ben and Howard are related since they share a common ancestor George.
+> 
+> On the other hand, if we introduce a new person Luna with no ties to anyone in the given tree above, then Luna is not related to anyone else. By convention, a person must be related to himself/herself.
+> 
+> Write the function `is_related(name1, name2, tree)` to check if the person `name1` is related to the person `name2` in the ancestry tree `tree`. The function returns `True` if so, or `False` otherwise.
+> 
+> You may assume that `name1` is different from `name2`.
+> 
+> Consider the following modified ancestry tree:
+> 
+> ``` python
+> tree2 = {
+>     'Amy' : 'Ben'   , 'Tom'  : 'Ben'  , 'Frank' : 'Amy',
+>     'May' : 'Tom'   , 'Ben'  : 'Howard', 'Howard': 'George',
+>     'Joe' : 'Bill'  , 'Bill' : 'Mary' , 'Zoe'   : 'Mary',
+>     'Mary': 'Philip', 'Simon': 'Bill'
+> }
+> ```
 
 ```python
 def find_ancestor(name, tree):
@@ -337,13 +341,14 @@ def is_related(name1, name2, tree):
 ---
 # Question 12: Counting Substring \[Hard]
 
+>[!example]- Question
 Write a function `count_substring(string)` that accepts a `string` as parameter, and returns the number of substrings that begin with character `'A'` and ends with character `'X'`.
-
-For example, suppose `string = 'CAXAAYXZA'`, there are four substrings that begin with `'A'` and ends with `'X'`, namely: `'AX'`, `'AXAAYX'`, `'AAYX'`, and `'AYX'`. Therefore, function call `count_substring('CAXAAYXZA')` returns `4`.
-
-You can assume that `string` is composed of upper case letters only.
-
-Note: This question can be done using a nested loop. However, such a design is not the best as the program is complex and execution takes longer time. For strong students, you **may challenge** yourself to use one single loop to solve this question.
+> 
+> For example, suppose `string = 'CAXAAYXZA'`, there are four substrings that begin with `'A'` and ends with `'X'`, namely: `'AX'`, `'AXAAYX'`, `'AAYX'`, and `'AYX'`. Therefore, function call `count_substring('CAXAAYXZA')` returns `4`.
+> 
+> You can assume that `string` is composed of upper case letters only.
+> 
+> Note: This question can be done using a nested loop. However, such a design is not the best as the program is complex and execution takes longer time. For strong students, you **may challenge** yourself to use one single loop to solve this question.
 
 ```python
 def count_substring(string):
