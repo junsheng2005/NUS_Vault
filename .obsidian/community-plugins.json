@@ -3,5 +3,7 @@
   "image-converter",
   "obsidian-plugin-toc",
   "execute-code",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-file-color",
+  "iconic"
 ]

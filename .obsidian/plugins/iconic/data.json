@@ -1,0 +1,88 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": false,
+  "showMenuActions": true,
+  "showSuggestionIcons": false,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "maxBackups": 2,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "folder"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Mods/1K Mods/CS1010E/Assignments": {
+      "icon": "lucide-file-text"
+    },
+    "Mods/1K Mods/CS1010E/Attachments": {
+      "icon": "lucide-image"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": [
+    {
+      "id": "45GAQ",
+      "name": "Assignments",
+      "match": "all",
+      "enabled": true,
+      "icon": "lucide-file-text",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Assignments"
+        }
+      ]
+    },
+    {
+      "id": "cmIud",
+      "name": "Attachments",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Attachments"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-image"
+    },
+    {
+      "id": "XjLR3",
+      "name": "Notes",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Notes"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-notebook"
+    }
+  ]
+}

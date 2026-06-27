@@ -1,0 +1,69 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "JAfvRDd47HouNBvdB6qpq",
+      "name": "Math",
+      "value": "#36bb1b"
+    },
+    {
+      "id": "e9EwRzwaiNBYNhq6qFDe4",
+      "name": "CS",
+      "value": "#9d39b1"
+    },
+    {
+      "id": "tm-_57Tt3zKM9FJFQ9qge",
+      "name": "ME",
+      "value": "#4c4abf"
+    },
+    {
+      "id": "opD3sZ1h--DFI1BR_ZjQr",
+      "name": "Others",
+      "value": "#cf4f4f"
+    },
+    {
+      "id": "7unJPUCIBNcbOD0s5eFdP",
+      "name": "Other CDE Mods",
+      "value": "#c5bb44"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Mods/1K Mods/CS1010E",
+      "color": "e9EwRzwaiNBYNhq6qFDe4"
+    },
+    {
+      "path": "Mods/1K Mods/DTK1234",
+      "color": "7unJPUCIBNcbOD0s5eFdP"
+    },
+    {
+      "path": "Mods/1K Mods/EG1311",
+      "color": "7unJPUCIBNcbOD0s5eFdP"
+    },
+    {
+      "path": "Mods/1K Mods/GEA1000",
+      "color": "opD3sZ1h--DFI1BR_ZjQr"
+    },
+    {
+      "path": "Mods/1K Mods/MA1505",
+      "color": "JAfvRDd47HouNBvdB6qpq"
+    },
+    {
+      "path": "Mods/1K Mods/MA1512",
+      "color": "JAfvRDd47HouNBvdB6qpq"
+    },
+    {
+      "path": "Mods/1K Mods/MA1513",
+      "color": "JAfvRDd47HouNBvdB6qpq"
+    },
+    {
+      "path": "Mods/1K Mods/ME1103",
+      "color": "tm-_57Tt3zKM9FJFQ9qge"
+    },
+    {
+      "path": "Mods/1K Mods/PF1101A",
+      "color": "opD3sZ1h--DFI1BR_ZjQr"
+    }
+  ]
+}
