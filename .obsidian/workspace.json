@@ -53,14 +53,12 @@
             "id": "98fd086d003bd287",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 2 Solution.md",
-                "mode": "source",
-                "source": false
+                "file": "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment03.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Assignment 2 Solution"
+              "icon": "lucide-file-text",
+              "title": "Assignment03"
             }
           }
         ],
@@ -248,11 +246,12 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "90b734fc8225fcf3",
+  "active": "98fd086d003bd287",
   "lastOpenFiles": [
-    "Notes",
+    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment2_v2.pdf",
     "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment01_v3.pdf",
     "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 2 Solution.md",
+    "Notes",
     "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
     "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
     "Mods/1K Mods/MA1505/Attachments/8. Multiple Integrals-1780966325691.webp",
@@ -267,7 +266,6 @@
     "Mods/1K Mods/MA1505/Lecture Notes/chapter8.pdf",
     "Mods/1K Mods/MA1505/Lecture Notes/chapter9.pdf",
     "Mods/1K Mods/MA1505/Lecture Notes/chapter10.pdf",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter3.pdf",
     "Untitled.md",
     "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 1 Solution.md",
     "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Attachments/Assignment 2 Solution-1782562671672.webp",
