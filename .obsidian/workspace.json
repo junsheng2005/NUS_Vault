@@ -1,38 +1,38 @@
 {
   "main": {
-    "id": "17af99e496676a6b",
+    "id": "64c89e7745c0a2e0",
     "type": "split",
     "children": [
       {
-        "id": "2aa689671db8b0fd",
+        "id": "d1aecd1401371af2",
         "type": "tabs",
         "children": [
           {
-            "id": "e63dbb2b985d30de",
+            "id": "14aa44b97b7c46b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
+                "file": "Mods/1K Mods/CS1010E/Notes/7. Searching, Sorting and Big-O.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Python Object Oriented Programming"
+              "title": "7. Searching, Sorting and Big-O"
             }
           },
           {
-            "id": "d445198cc0f8376b",
+            "id": "d905eb0c6617c3fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
+                "file": "Mods/1K Mods/CS1010E/Notes/7. Searching, Sorting and Big-O.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Python Object Oriented Programming"
+              "title": "7. Searching, Sorting and Big-O"
             }
           }
         ],
@@ -42,33 +42,33 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f5798309a856638a",
+    "id": "e7d12a731e4d0ad0",
     "type": "split",
     "children": [
       {
-        "id": "f54eafc39bd7a80e",
+        "id": "e2435fa33f339e8b",
         "type": "tabs",
         "children": [
           {
-            "id": "90b734fc8225fcf3",
+            "id": "0808c3af97483a77",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "03816774fec19bef",
+            "id": "63c6cc8d0d092a31",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"MA1505/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "7e56f139f7c8f090",
+            "id": "9c44cb37bdc911fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,21 +96,21 @@
     "width": 300
   },
   "right": {
-    "id": "6276442a5083ad4d",
+    "id": "81d91a1b0de98c73",
     "type": "split",
     "children": [
       {
-        "id": "e6dd8fe62510bbc1",
+        "id": "88d4a9717b16a001",
         "type": "tabs",
         "children": [
           {
-            "id": "dfa158be09f50a26",
+            "id": "b7cdce8192a98c48",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS1010E/Assignments/AY_22_23_Sem2/Assignment 1 Solution.md",
-                "collapseAll": false,
+                "file": "Mods/1K Mods/CS1010E/Notes/7. Searching, Sorting and Big-O.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -119,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Assignment 1 Solution"
+              "title": "Backlinks for 7. Searching, Sorting and Big-O"
             }
           },
           {
-            "id": "cb061ceb8c89f95b",
+            "id": "96ca1350b058a483",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS1010E/Assignments/AY_22_23_Sem2/Assignment 1 Solution.md",
+                "file": "Mods/1K Mods/CS1010E/Notes/7. Searching, Sorting and Big-O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Assignment 1 Solution"
+              "title": "Outgoing links from 7. Searching, Sorting and Big-O"
             }
           },
           {
-            "id": "ca77d13923a0d96a",
+            "id": "79ee91110c78a01a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "78ac255c74de05b6",
+            "id": "f0907d854d5149c9",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,32 +166,22 @@
             }
           },
           {
-            "id": "14d486996c86d75c",
+            "id": "4628ff3778e5437f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
+                "file": "Mods/1K Mods/CS1010E/Notes/7. Searching, Sorting and Big-O.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11. Python Object Oriented Programming"
+              "title": "Outline of 7. Searching, Sorting and Big-O"
             }
           },
           {
-            "id": "56a070168cde20c9",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
-          {
-            "id": "4b7b5e2a3c7896db",
+            "id": "dcdc236e8c8d8d1b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -201,11 +191,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,53 +210,13 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "4b7b5e2a3c7896db",
+  "active": "d905eb0c6617c3fb",
   "lastOpenFiles": [
-    "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
-    "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
-    "Mods/1K Mods/CS1010E/Notes/12. Error and Exception Handling.md",
-    "Mods/1K Mods/CS1010E/Notes/5. Collections (Part II).md",
-    "Mods/1K Mods/CS1010E/Notes/4. Collections (Part I).md",
-    "Mods/1K Mods/CS1010E/Attachments/Basic Data Types-1781589075438.webp",
-    "Mods/1K Mods/CS1010E/Notes/3. Functions.md",
-    "Mods/1K Mods/CS1010E/Attachments/10. Map, Filter, Deepmap-1782115660311.webp",
-    "Mods/1K Mods/CS1010E/Attachments/8. Multi-Dimensional Array-1781951756709.webp",
-    "Mods/1K Mods/CS1010E/Attachments/Basic Data Types-1781598279920.webp",
-    "Mods/1K Mods/CS1010E/Attachments/Basic Data Types-1781599341428.webp",
-    "Mods/1K Mods/CS1010E/Attachments/Control Structures-1781613067896.webp",
-    "Mods/1K Mods/CS1010E/Attachments/Control Structures-1781620202754.webp",
-    "Mods/1K Mods/CS1010E/Attachments/Control Structures-1781613355559.webp",
-    "Mods/1K Mods/CS1010E/Attachments/7. Searching, Sorting and Big-O-1781859112086.webp",
-    "Mods/1K Mods/CS1010E/Attachments/7. Searching, Sorting and Big-O-1781855284453.webp",
-    "Mods/1K Mods/CS1010E/Notes/2. Control Structures.md",
-    "Mods/1K Mods/CS1010E/Notes/1. Basic Data Types.md",
-    "Mods/1K Mods/MA1505/Personal Notes/10. Surface Integrals.md",
-    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 2 Solution.md",
-    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment03.pdf",
-    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment2_v2.pdf",
-    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment01_v3.pdf",
-    "Notes",
-    "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
-    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
-    "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
-    "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
-    "Mods/1K Mods/MA1505/Personal Notes",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter6.pdf",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter7.pdf",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter4.pdf",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter5.pdf",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter8.pdf",
-    "Untitled.md",
-    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 1 Solution.md",
-    "2026-06-26.md",
-    "Concepts/Work Done.md",
-    "Mods/1K Mods/CS1010E/Notes/10. Map, Filter, Deepmap.md",
     "Mods/1K Mods/CS1010E/Notes/7. Searching, Sorting and Big-O.md",
-    "Mods/1K Mods/CS1010E/Notes/9. Higher Order Functions.md",
-    "Mods/1K Mods/CS1010E/Notes/8. Multi-Dimensional Array.md",
+    "Mods/1K Mods/CS1010E/Notes/12. Error and Exception Handling.md",
     "Mods/1K Mods/CS1010E/Notes/6. Recursion.md",
-    "String.md",
-    "Concepts/Chain Rule.md",
-    "Concepts/Surface Integral.md"
+    "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
+    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 1 Solution.md",
+    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 2 Solution.md"
   ]
 }
