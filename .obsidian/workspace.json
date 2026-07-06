@@ -11,14 +11,17 @@
             "id": "adf78a02638595a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
-                "mode": "source",
-                "source": false
+                "file": "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
+                "viewState": {
+                  "x": 19.353139176517058,
+                  "y": 5977.347707281349,
+                  "zoom": 0.07913166900696778
+                }
               },
-              "icon": "lucide-file",
-              "title": "7. Functions of Several Variables"
+              "icon": "lucide-layout-dashboard",
+              "title": "CS1010E Canvas"
             }
           },
           {
@@ -253,6 +256,7 @@
   },
   "active": "adf78a02638595a7",
   "lastOpenFiles": [
+    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
     "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019+v3.pdf",
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019+v3 Answers.md",
@@ -271,7 +275,6 @@
     "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
     "Mods/1K Mods/MA1505/Lecture Notes/chapter9.pdf",
     "Mods/1K Mods/CS1010E/Notes/9. Higher Order Functions.md",
-    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
     "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
     "Mods/1K Mods/CS1010E/Notes/1. Basic Data Types.md",
     "Mods/1K Mods/CS1010E/Notes/4. Collections (Part I).md",
