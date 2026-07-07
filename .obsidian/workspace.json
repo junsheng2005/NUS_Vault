@@ -11,17 +11,12 @@
             "id": "adf78a02638595a7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
-                "viewState": {
-                  "x": 70,
-                  "y": 2837.5,
-                  "zoom": -3.2739962076033406
-                }
+                "file": "Mods/1K Mods/MA1512/Tutorial/MA1512-Tutorial 1.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CS1010E Canvas"
+              "icon": "lucide-file-text",
+              "title": "MA1512-Tutorial 1"
             }
           },
           {
@@ -256,24 +251,26 @@
   },
   "active": "adf78a02638595a7",
   "lastOpenFiles": [
+    "Mods/1K Mods/MA1512/Tutorial/MA1512-Tutorial 3 Solutions (Edited).pdf",
+    "Mods/1K Mods/MA1512/Past Year Papers/MA1512-AY1718 Sem 2 Exam Solutions.pdf",
+    "Mods/1K Mods/MA1512/Past Year Papers/MA1512-AY1819 Sem 1 Exam Solutions.pdf",
+    "Mods/1K Mods/MA1512/Past Year Papers/MA1512-AY1718 Sem 1 Exam Solutions.pdf",
+    "Mods/1K Mods/MA1512/Past Year Papers/1819SEM1-MA1512.pdf",
+    "Mods/1K Mods/MA1512/Past Year Papers/1718SEM2-MA1512.pdf",
+    "Mods/1K Mods/MA1512/Past Year Papers/1718SEM1-MA1512.pdf",
+    "Mods/1K Mods/MA1512/Lecture Notes/MA1512-Chapter 2.pdf",
+    "Mods/1K Mods/MA1512/Past Year Papers",
+    "Mods/1K Mods/MA1512/Tutorial/MA1512-Tutorial 5.pdf",
+    "Mods/1K Mods/MA1512/Tutorial/MA1512-Tutorial 5 Solutions.pdf",
+    "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
     "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
     "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
-    "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019+v3.pdf",
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019+v3 Answers.md",
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019-template.md",
-    "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19",
-    "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
-    "CS1010E-PE2-2019-template.txt",
     "CS1010E-PE2-2019-template.md",
-    "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/CS1010E-PE2-2019-template.txt",
-    "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/CS1010E-PE2-2019-template 1.py",
     "Mods/1K Mods/CS1010E/Notes/12. Error and Exception Handling.md",
-    "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/CS1010E-PE2-2019-template.py",
-    "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam",
-    "Mods/1K Mods/CS1010E/Past Year Papers",
     "Mods/1K Mods/CS1010E/Notes/10. Map, Filter, Deepmap.md",
     "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter9.pdf",
     "Mods/1K Mods/CS1010E/Notes/9. Higher Order Functions.md",
     "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
     "Mods/1K Mods/CS1010E/Notes/1. Basic Data Types.md",
@@ -283,7 +280,6 @@
     "Mods/1K Mods/CS1010E/Notes/8. Multi-Dimensional Array.md",
     "Mods/1K Mods/CS1010E/Notes/7. Searching, Sorting and Big-O.md",
     "Mods/1K Mods/CS1010E/Notes/5. Collections (Part II).md",
-    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment2_v2.pdf",
     "Mods/1K Mods/CS1010E/Notes/6. Recursion.md",
     "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 1 Solution.md",
     "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 2 Solution.md"
