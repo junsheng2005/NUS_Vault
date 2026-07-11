@@ -40,7 +40,22 @@
   "tagIcons": {},
   "propertyIcons": {},
   "ribbonIcons": {},
-  "fileRules": [],
+  "fileRules": [
+    {
+      "id": "tjTc6",
+      "name": "Canvas",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Canvas"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-sticky-note"
+    }
+  ],
   "folderRules": [
     {
       "id": "45GAQ",
@@ -83,6 +98,34 @@
       ],
       "enabled": true,
       "icon": "lucide-notebook"
+    },
+    {
+      "id": "0to0K",
+      "name": "Tutorial",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Tutorial"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-pencil"
+    },
+    {
+      "id": "RrGLb",
+      "name": "Past Year Papers",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Past Year Papers"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-calendar-fold"
     }
   ]
 }

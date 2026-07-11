@@ -4,78 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "d1aecd1401371af2",
+        "id": "bfd60cf30a59692e",
         "type": "tabs",
         "children": [
           {
-            "id": "adf78a02638595a7",
+            "id": "ca734748bfa87110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Functions of Several Variables"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bce0724294b792c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9e12a422f287e23",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Mods/1K Mods/MA1512/Tutorial/MA1512-Tutorial 1.pdf"
+                "file": "Mods/1K Mods/MA1505/Lecture Notes/chapter7.pdf",
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
-              "title": "MA1512-Tutorial 1"
+              "title": "chapter7"
             }
           },
           {
-            "id": "2f203803d0b38a03",
+            "id": "ada918a0ca8a3435",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019+v3 Answers.md",
-                "mode": "source",
-                "source": false
+                "file": "Thomas Calculus 12th Edition Textbook.pdf",
+                "page": 848,
+                "left": 32,
+                "top": 569,
+                "zoom": 0.97
               },
-              "icon": "lucide-file",
-              "title": "CS1010E-PE2-2019+v3 Answers"
-            }
-          },
-          {
-            "id": "fba0c3cf75d07001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mods/1K Mods/CS1010E/Notes/9. Higher Order Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Higher Order Functions"
-            }
-          },
-          {
-            "id": "b53e856256c7994f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mods/1K Mods/CS1010E/Notes/10. Map, Filter, Deepmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. Map, Filter, Deepmap"
-            }
-          },
-          {
-            "id": "95a8d531c44817d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. Python Object Oriented Programming"
+              "icon": "lucide-file-text",
+              "title": "Thomas Calculus 12th Edition Textbook"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "81d91a1b0de98c73",
@@ -228,13 +212,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "64f342bd9a4f7203",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,25 +240,48 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "iconic:Open rulebook": false
+      "iconic:Open rulebook": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "adf78a02638595a7",
+  "active": "dcdc236e8c8d8d1b",
   "lastOpenFiles": [
+    "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
+    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
+    "Mods/1K Mods/MA1505/Personal Notes/Attachments/7. Functions of Several Variables-1783495589794.webp",
+    "Mods/1K Mods/MA1505/Personal Notes/Attachments/7. Functions of Several Variables-1781095685609.webp",
+    "Mods/1K Mods/MA1505/Personal Notes/Attachments/7. Functions of Several Variables-1783496118236.webp",
+    "Mods/1K Mods/MA1505/Personal Notes/Attachments/7. Functions of Several Variables-1783754455895.webp",
+    "Thomas Calculus 12th Edition Textbook.pdf",
+    "Mods/1K Mods/MA1505/Lecture Notes/chapter7.pdf",
+    "Mods/1K Mods/MA1505/Personal Notes/Attachments/7. Functions of Several Variables-1783495663233.webp",
+    "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
+    "Mods/1K Mods/MA1505/Personal Notes/Attachments/7. Functions of Several Variables-1783494969331.webp",
+    "Mods/1K Mods/MA1505/Personal Notes/Attachments/7. Functions of Several Variables-1783494958730.webp",
+    "Mods/1K Mods/MA1505/Personal Notes/Attachments/7. Functions of Several Variables-1783494899746.webp",
+    "Mods/1K Mods/MA1505/Personal Notes/Attachments/7. Functions of Several Variables-1783494282271.webp",
+    "Mods/1K Mods/MA1505/Personal Notes/Attachments",
+    "12th edition solution.pdf",
+    "Partial Derivatives.md",
+    "Textbooks",
+    "Concepts/Work Done.md",
+    "Mod Planning.md",
+    "Excel 2026-07-08 10.18.33.univer.md",
+    "Concepts/Vector Field.md",
+    "Concepts/Tangent Planes.md",
+    "Concepts/Surface Integral.md",
+    "Concepts/Fundamental Theorem for Calculus.md",
+    "Concepts/Chain Rule.md",
+    "Concepts/Curl and Divergence.md",
+    "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
+    "Mods/1K Mods/MA1512/Tutorial/MA1512-Tutorial 1.pdf",
     "Mods/1K Mods/MA1512/Tutorial/MA1512-Tutorial 3 Solutions (Edited).pdf",
     "Mods/1K Mods/MA1512/Past Year Papers/MA1512-AY1718 Sem 2 Exam Solutions.pdf",
     "Mods/1K Mods/MA1512/Past Year Papers/MA1512-AY1819 Sem 1 Exam Solutions.pdf",
     "Mods/1K Mods/MA1512/Past Year Papers/MA1512-AY1718 Sem 1 Exam Solutions.pdf",
-    "Mods/1K Mods/MA1512/Past Year Papers/1819SEM1-MA1512.pdf",
-    "Mods/1K Mods/MA1512/Past Year Papers/1718SEM2-MA1512.pdf",
-    "Mods/1K Mods/MA1512/Past Year Papers/1718SEM1-MA1512.pdf",
-    "Mods/1K Mods/MA1512/Lecture Notes/MA1512-Chapter 2.pdf",
-    "Mods/1K Mods/MA1512/Past Year Papers",
-    "Mods/1K Mods/MA1512/Tutorial/MA1512-Tutorial 5.pdf",
-    "Mods/1K Mods/MA1512/Tutorial/MA1512-Tutorial 5 Solutions.pdf",
-    "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
-    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
-    "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019+v3 Answers.md",
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019-template.md",
     "CS1010E-PE2-2019-template.md",
@@ -272,16 +289,10 @@
     "Mods/1K Mods/CS1010E/Notes/10. Map, Filter, Deepmap.md",
     "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
     "Mods/1K Mods/CS1010E/Notes/9. Higher Order Functions.md",
-    "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
     "Mods/1K Mods/CS1010E/Notes/1. Basic Data Types.md",
     "Mods/1K Mods/CS1010E/Notes/4. Collections (Part I).md",
     "Mods/1K Mods/CS1010E/Notes/3. Functions.md",
     "Mods/1K Mods/CS1010E/Notes/2. Control Structures.md",
-    "Mods/1K Mods/CS1010E/Notes/8. Multi-Dimensional Array.md",
-    "Mods/1K Mods/CS1010E/Notes/7. Searching, Sorting and Big-O.md",
-    "Mods/1K Mods/CS1010E/Notes/5. Collections (Part II).md",
-    "Mods/1K Mods/CS1010E/Notes/6. Recursion.md",
-    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 1 Solution.md",
-    "Mods/1K Mods/CS1010E/Assignments/AY_22_23_Sem2/Assignment 2 Solution.md"
+    "Mods/1K Mods/CS1010E/Notes/8. Multi-Dimensional Array.md"
   ]
 }

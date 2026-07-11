@@ -1,9 +1,11 @@
 [
   "obsidian-latex-suite",
   "image-converter",
-  "obsidian-plugin-toc",
   "execute-code",
   "obsidian-git",
   "obsidian-file-color",
-  "iconic"
+  "iconic",
+  "table-editor-obsidian",
+  "mehrmaid",
+  "pdf-plus"
 ]
