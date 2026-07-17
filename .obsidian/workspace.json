@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bfd60cf30a59692e",
+        "id": "59bbe84253a0e8fd",
         "type": "tabs",
         "children": [
           {
-            "id": "ca734748bfa87110",
+            "id": "ea4aff7a166c0ca6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,28 +20,6 @@
               "icon": "lucide-file",
               "title": "9. Line Integral"
             }
-          }
-        ]
-      },
-      {
-        "id": "59bbe84253a0e8fd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ea4aff7a166c0ca6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mods/1K Mods/MA1505/Lecture Notes/chapter9.pdf",
-                "page": 7,
-                "left": -16,
-                "top": 845,
-                "zoom": 0.9277310924369748
-              },
-              "icon": "lucide-file-text",
-              "title": "chapter9"
-            }
           },
           {
             "id": "850aa247dea38445",
@@ -51,16 +29,15 @@
               "state": {
                 "file": "Thomas Calculus 12th Edition Textbook.pdf",
                 "page": 943,
-                "left": 258,
-                "top": 389,
-                "zoom": 1.9
+                "left": 26,
+                "top": 823,
+                "zoom": 1.4362745098039216
               },
               "icon": "lucide-file-text",
               "title": "Thomas Calculus 12th Edition Textbook"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "81d91a1b0de98c73",
@@ -249,14 +225,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ca734748bfa87110",
+  "active": "ea4aff7a166c0ca6",
   "lastOpenFiles": [
+    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
+    "Mods/1K Mods/MA1505/Lecture Notes/chapter5.pdf",
+    "Mods/1K Mods/MA1505/Lecture Notes/chapter2.pdf",
+    "Mods/1K Mods/MA1505/MA1505 Canvas.canvas",
+    "Mods/1K Mods/MA1505/Lecture Notes/chapter9.pdf",
+    "Thomas Calculus 12th Edition Textbook.pdf",
+    "Line Integrals.md",
+    "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
     "Mods/1K Mods/MA1505/Personal Notes/10. Surface Integrals.md",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856828911.webp",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/Pasted image 20260607204950.png",
-    "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
-    "Thomas Calculus 12th Edition Textbook.pdf",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter9.pdf",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856727328.webp",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856721265.webp",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856713002.webp",
@@ -266,12 +247,10 @@
     "Gradient Field.md",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856575497.webp",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856556671.webp",
-    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
     "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
     "12th edition solution.pdf",
     "Mods/1K Mods/MA1505/Lecture Notes/chapter8.pdf",
     "Concepts/Work Done.md",
-    "Mods/1K Mods/MA1505/MA1505 Canvas.canvas",
     "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
     "Mods/1K Mods/MA1505/Lecture Notes/chapter7.pdf",
     "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
@@ -287,8 +266,6 @@
     "Concepts/Chain Rule.md",
     "Concepts/Curl and Divergence.md",
     "Mods/1K Mods/MA1512/Tutorial/MA1512-Tutorial 1.pdf",
-    "Mods/1K Mods/MA1512/Tutorial/MA1512-Tutorial 3 Solutions (Edited).pdf",
-    "Mods/1K Mods/MA1512/Past Year Papers/MA1512-AY1718 Sem 2 Exam Solutions.pdf",
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019+v3 Answers.md",
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019-template.md",
     "CS1010E-PE2-2019-template.md",
@@ -296,7 +273,6 @@
     "Mods/1K Mods/CS1010E/Notes/10. Map, Filter, Deepmap.md",
     "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
     "Mods/1K Mods/CS1010E/Notes/9. Higher Order Functions.md",
-    "Mods/1K Mods/CS1010E/Notes/1. Basic Data Types.md",
-    "Mods/1K Mods/CS1010E/Notes/4. Collections (Part I).md"
+    "Mods/1K Mods/CS1010E/Notes/1. Basic Data Types.md"
   ]
 }
