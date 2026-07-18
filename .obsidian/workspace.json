@@ -20,22 +20,6 @@
               "icon": "lucide-file",
               "title": "9. Line Integral"
             }
-          },
-          {
-            "id": "850aa247dea38445",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Thomas Calculus 12th Edition Textbook.pdf",
-                "page": 943,
-                "left": 26,
-                "top": 823,
-                "zoom": 1.4362745098039216
-              },
-              "icon": "lucide-file-text",
-              "title": "Thomas Calculus 12th Edition Textbook"
-            }
           }
         ]
       }
@@ -225,7 +209,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ea4aff7a166c0ca6",
+  "active": "dcdc236e8c8d8d1b",
   "lastOpenFiles": [
     "Untitled.md",
     "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
@@ -234,7 +218,7 @@
     "Mods/1K Mods/MA1505/Lecture Notes/chapter2.pdf",
     "Mods/1K Mods/MA1505/MA1505 Canvas.canvas",
     "Mods/1K Mods/MA1505/Lecture Notes/chapter9.pdf",
-    "Thomas Calculus 12th Edition Textbook.pdf",
+    "Textbooks/Thomas Calculus 12th Edition Textbook.pdf",
     "Line Integrals.md",
     "Mods/1K Mods/MA1505/Personal Notes/10. Surface Integrals.md",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856828911.webp",
@@ -245,11 +229,11 @@
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856700212.webp",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856678281.webp",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856666006.webp",
-    "Gradient Field.md",
+    "Textbooks/Gradient Field.md",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856575497.webp",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856556671.webp",
     "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
-    "12th edition solution.pdf",
+    "Textbooks/12th edition solution.pdf",
     "Mods/1K Mods/MA1505/Lecture Notes/chapter8.pdf",
     "Concepts/Work Done.md",
     "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
