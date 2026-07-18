@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7126a6f044f6f37e","x":-320,"y":-620,"width":1195,"height":660,"type":"file","file":"Attachments/Pasted image 20260718121630.png"},
+		{"id":"125f55331b5c82a0","x":-320,"y":60,"width":250,"height":140,"type":"text","text":"Not Included:\n3X ME TE\n8 UE"},
+		{"id":"c123a404d96dd418","x":-40,"y":60,"width":360,"height":440,"type":"text","text":"**UTOP** (UE)\nUndergraduate Teaching Opportunities Programme\n4 Units\n\n**EG3612** (UE)\nVacation Industrial Attachment (VIA)\n6 Units\n\nLAJ1201 (UE) (ST1)\nJapanese 1\n4 Units"},
+		{"id":"9623824b6259c771","x":360,"y":60,"width":360,"height":220,"type":"text","text":"ME4263 (ST1) (ME TE)\nFundamentals of Product Development\n\nPossible to do Specialisation with 2X ME TE + 12 UE"}
+	],
+	"edges":[]
+}
