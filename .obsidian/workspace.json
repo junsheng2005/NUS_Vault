@@ -4,58 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "59bbe84253a0e8fd",
+        "id": "e2d5cceca330da9f",
         "type": "tabs",
         "children": [
           {
-            "id": "ea4aff7a166c0ca6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mods/1K Mods/MA1505/Lecture Notes/chapter9.pdf",
-                "page": 7,
-                "left": -16,
-                "top": 845,
-                "zoom": 0.9277310924369748
-              },
-              "icon": "lucide-file-text",
-              "title": "chapter9"
-            }
-          },
-          {
-            "id": "850aa247dea38445",
+            "id": "60cc3005b79a0b29",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Mod Planning.canvas",
                 "viewState": {
-                  "x": 277.5,
-                  "y": -60,
-                  "zoom": -1.0524674198941355
+                  "x": 396.26809326525847,
+                  "y": 70.65524172267453,
+                  "zoom": -0.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Mod Planning"
             }
-          },
-          {
-            "id": "6e427d554ee60d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Read Me PLEASE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Read Me PLEASE"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read Me PLEASE.md",
+                "file": "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Read Me PLEASE"
+              "title": "Backlinks for 11. Python Object Oriented Programming"
             }
           },
           {
@@ -147,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read Me PLEASE.md",
+                "file": "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Read Me PLEASE"
+              "title": "Outgoing links from 11. Python Object Oriented Programming"
             }
           },
           {
@@ -190,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read Me PLEASE.md",
+                "file": "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Read Me PLEASE"
+              "title": "Outline of 11. Python Object Oriented Programming"
             }
           },
           {
@@ -224,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,42 +212,42 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "dcdc236e8c8d8d1b",
+  "active": "0808c3af97483a77",
   "lastOpenFiles": [
+    "Mods/1K Mods/CS1010E/Lecture Slides",
+    "Mods/1K Mods/EG1311/Fusion_Installation.pdf",
+    "Mods/1K Mods/EG1311/Template Project/Cardboard_Template.pdf",
+    "Mods/1K Mods/EG1311/Template Project/Template_Instructions.pdf",
+    "Mods/1K Mods/EG1311/Template Project",
+    "Mods/1K Mods/EG1311/Lecture Slides/L4A_CAD_Intro.pdf",
+    "Mods/1K Mods/EG1311/Lecture Slides/L3D_PWM_Servo.pdf",
+    "Mods/1K Mods/EG1311/Lecture Slides/L3C_Driver_Sensor.pdf",
+    "Mods/1K Mods/EG1311/Lecture Slides/L3B_Serial_Communication.pdf",
+    "Mods/1K Mods/EG1311/Lecture Slides/L3A_Arduino_Basics.pdf",
+    "Mods/1K Mods/EG1311/Lecture Slides/L2D_Program_Flow.pdf",
+    "Read Me PLEASE.md",
     "Attachments/Read Me-1785069744519.webp",
     "Attachments/Read Me-1785069648130.webp",
     "Attachments/Read Me-1785069591767.webp",
     "Attachments/Read Me-1785069487039.webp",
     "Attachments/Read Me-1785069421782.webp",
     "Attachments/Read Me-1785069133675.webp",
-    "Mods/1K Mods/CS1010E/Notes/8. Multi-Dimensional Array.md",
-    "Read Me PLEASE.md",
     "Attachments/Read Me-1785068970732.webp",
     "Attachments/Read Me-1785068458711.webp",
     "Attachments/Read Me-1785067932793.webp",
     "Attachments/Read Me-1785067716902.webp",
-    "Attachments/Read Me-1785067691112.webp",
     "Mod Planning.canvas",
     "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
-    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
-    "Mods/1K Mods/MA1505/Personal Notes/10. Surface Integrals.md",
-    "Textbooks/Thomas Calculus 12th Edition Textbook.pdf",
     "Textbooks/Gradient Field.md",
-    "Textbooks/12th edition solution.pdf",
-    "Textbooks",
-    "Attachments",
-    "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
-    "Thomas Calculus 12th Edition Textbook.pdf",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter9.pdf",
-    "Gradient Field.md",
-    "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
-    "12th edition solution.pdf",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter8.pdf",
-    "Concepts/Work Done.md",
+    "Untitled.md",
+    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
     "Mods/1K Mods/MA1505/MA1505 Canvas.canvas",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter7.pdf",
+    "Line Integrals.md",
+    "Mods/1K Mods/MA1505/Personal Notes/10. Surface Integrals.md",
+    "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
+    "Concepts/Work Done.md",
+    "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
     "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
-    "Mods/1K Mods/MA1505/Personal Notes/Attachments",
     "Partial Derivatives.md",
     "Mod Planning.md",
     "Excel 2026-07-08 10.18.33.univer.md",
