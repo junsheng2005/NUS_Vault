@@ -4,27 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "e2d5cceca330da9f",
+        "id": "59bbe84253a0e8fd",
         "type": "tabs",
         "children": [
           {
-            "id": "60cc3005b79a0b29",
+            "id": "ea4aff7a166c0ca6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Mods/1K Mods/MA1505/Lecture Notes/chapter9.pdf",
+                "page": 7,
+                "left": -16,
+                "top": 845,
+                "zoom": 0.9277310924369748
+              },
+              "icon": "lucide-file-text",
+              "title": "chapter9"
+            }
+          },
+          {
+            "id": "850aa247dea38445",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Mod Planning.canvas",
                 "viewState": {
-                  "x": 396.26809326525847,
-                  "y": 70.65524172267453,
-                  "zoom": -0.6666666666666665
+                  "x": 277.5,
+                  "y": -60,
+                  "zoom": -1.0524674198941355
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Mod Planning"
             }
+          },
+          {
+            "id": "6e427d554ee60d9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read Me PLEASE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Read Me PLEASE"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
+                "file": "Read Me PLEASE.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11. Python Object Oriented Programming"
+              "title": "Backlinks for Read Me PLEASE"
             }
           },
           {
@@ -116,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
+                "file": "Read Me PLEASE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 11. Python Object Oriented Programming"
+              "title": "Outgoing links from Read Me PLEASE"
             }
           },
           {
@@ -159,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
+                "file": "Read Me PLEASE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11. Python Object Oriented Programming"
+              "title": "Outline of Read Me PLEASE"
             }
           },
           {
@@ -193,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,42 +243,43 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "60cc3005b79a0b29",
+  "active": "dcdc236e8c8d8d1b",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260718121630.png",
-    "Attachments",
+    "Attachments/Read Me-1785069744519.webp",
+    "Attachments/Read Me-1785069648130.webp",
+    "Attachments/Read Me-1785069591767.webp",
+    "Attachments/Read Me-1785069487039.webp",
+    "Attachments/Read Me-1785069421782.webp",
+    "Attachments/Read Me-1785069133675.webp",
+    "Mods/1K Mods/CS1010E/Notes/8. Multi-Dimensional Array.md",
+    "Read Me PLEASE.md",
+    "Attachments/Read Me-1785068970732.webp",
+    "Attachments/Read Me-1785068458711.webp",
+    "Attachments/Read Me-1785067932793.webp",
+    "Attachments/Read Me-1785067716902.webp",
+    "Attachments/Read Me-1785067691112.webp",
     "Mod Planning.canvas",
     "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
-    "Textbooks/Gradient Field.md",
-    "Untitled.md",
     "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter5.pdf",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter2.pdf",
-    "Mods/1K Mods/MA1505/MA1505 Canvas.canvas",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter9.pdf",
-    "Textbooks/Thomas Calculus 12th Edition Textbook.pdf",
-    "Line Integrals.md",
     "Mods/1K Mods/MA1505/Personal Notes/10. Surface Integrals.md",
-    "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856828911.webp",
-    "Mods/1K Mods/MA1505/Personal Notes/Attachments/Pasted image 20260607204950.png",
-    "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856727328.webp",
-    "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856721265.webp",
-    "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856713002.webp",
-    "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856700212.webp",
-    "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856678281.webp",
-    "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856666006.webp",
-    "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856575497.webp",
-    "Mods/1K Mods/MA1505/Personal Notes/Attachments/9. Line Integral-1783856556671.webp",
-    "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
+    "Textbooks/Thomas Calculus 12th Edition Textbook.pdf",
+    "Textbooks/Gradient Field.md",
     "Textbooks/12th edition solution.pdf",
+    "Textbooks",
+    "Attachments",
+    "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
+    "Thomas Calculus 12th Edition Textbook.pdf",
+    "Mods/1K Mods/MA1505/Lecture Notes/chapter9.pdf",
+    "Gradient Field.md",
+    "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
+    "12th edition solution.pdf",
     "Mods/1K Mods/MA1505/Lecture Notes/chapter8.pdf",
     "Concepts/Work Done.md",
-    "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
+    "Mods/1K Mods/MA1505/MA1505 Canvas.canvas",
     "Mods/1K Mods/MA1505/Lecture Notes/chapter7.pdf",
     "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
     "Mods/1K Mods/MA1505/Personal Notes/Attachments",
     "Partial Derivatives.md",
-    "Textbooks",
     "Mod Planning.md",
     "Excel 2026-07-08 10.18.33.univer.md",
     "Concepts/Vector Field.md",
@@ -261,7 +293,6 @@
     "CS1010E-PE2-2019-template.md",
     "Mods/1K Mods/CS1010E/Notes/12. Error and Exception Handling.md",
     "Mods/1K Mods/CS1010E/Notes/10. Map, Filter, Deepmap.md",
-    "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
-    "Mods/1K Mods/CS1010E/Notes/9. Higher Order Functions.md"
+    "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md"
   ]
 }
