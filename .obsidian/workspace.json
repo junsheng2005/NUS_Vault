@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "e3df857085b1b481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cfa042f5d9cf1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Linear System and Matrix Algebra"
+            }
+          }
+        ]
+      },
+      {
         "id": "54529b725b05f8b8",
         "type": "tabs",
         "children": [
@@ -13,14 +33,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Mods/1K Mods/MA1513/AY2627_Sem1/Key Video Slide Decks/Week 1 Key Video Slides.pdf",
-                "page": 1,
-                "left": -17,
-                "top": 543,
-                "zoom": 0.86796875
+                "file": "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+                "page": 5,
+                "left": -3,
+                "top": 641,
+                "zoom": 1.1
               },
               "icon": "lucide-file-text",
-              "title": "Week 1 Key Video Slides"
+              "title": "Chapter 1"
             }
           }
         ]
@@ -82,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "right": {
     "id": "81d91a1b0de98c73",
@@ -213,32 +234,32 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5b9dcd9612da2b46",
+  "active": "6cfa042f5d9cf1b9",
   "lastOpenFiles": [
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+    "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023597835.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023574613.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786019227958.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786018441464.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786017047436.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016887805.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016864309.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 2 Overview.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 2.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1 Overview.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Key Video Slide Decks/Week 1 Key Video Slides.pdf",
+    "Mods/1K Mods/MA1513/Personal Notes",
     "Mods/1K Mods/MA1513/AY2627_Sem1/Key Video Slide Decks/Revision Lecture Slide Deck.pdf",
     "Mods/1K Mods/MA1513/AY2627_Sem1/Lecture Problem Sets/Lecture Problem Set 1.pdf",
     "Mods/1K Mods/MA1513/AY2627_Sem1/Past Year Papers/MA1513(2324Sem1)Examplify.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Past Year Papers/MA1513(2223Sem2)Examplify_Solution.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Past Year Papers/MA1513(2223Sem1)Examplify_Solution.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Past Year Papers/MA1513(2223Sem1)Examplify.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/FAQ/Week 1/Week 1 Q1.pdf",
     "Mods/1K Mods/MA1513/AY2627_Sem1/course_image/matrix.jpg",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/course_image",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 4.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 4 Overview.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 3.pdf",
     "Untitled.md",
     "Mod Planning.canvas",
     "Read Me PLEASE.md",
     "Attachments/Read Me-1785069744519.webp",
     "Attachments/Read Me-1785069648130.webp",
-    "Attachments/Read Me-1785069591767.webp",
-    "Attachments/Read Me-1785069487039.webp",
-    "Attachments/Read Me-1785069421782.webp",
-    "Attachments/Read Me-1785069133675.webp",
-    "Attachments/Read Me-1785068970732.webp",
-    "Attachments/Read Me-1785068458711.webp",
-    "Attachments/Read Me-1785067932793.webp",
     "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
     "Textbooks/Gradient Field.md",
     "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
@@ -262,7 +283,6 @@
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019-template.md",
     "CS1010E-PE2-2019-template.md",
     "Mods/1K Mods/CS1010E/Notes/12. Error and Exception Handling.md",
-    "Mods/1K Mods/CS1010E/Notes/10. Map, Filter, Deepmap.md",
-    "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md"
+    "Mods/1K Mods/CS1010E/Notes/10. Map, Filter, Deepmap.md"
   ]
 }
