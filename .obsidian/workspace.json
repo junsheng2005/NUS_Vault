@@ -11,20 +11,22 @@
             "id": "6cfa042f5d9cf1b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
-                "mode": "source",
-                "source": false
+                "file": "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
+                "page": 4,
+                "left": -30,
+                "top": 845,
+                "zoom": 0.6600161225312373
               },
-              "icon": "lucide-file",
-              "title": "1. Linear System and Matrix Algebra"
+              "icon": "lucide-file-text",
+              "title": "ME1103 - Mechanical Properties from Tensile Tests - Lab manual"
             }
           }
         ]
       },
       {
-        "id": "54529b725b05f8b8",
+        "id": "9f49bc7adf9bddef",
         "type": "tabs",
         "children": [
           {
@@ -34,10 +36,10 @@
               "type": "pdf",
               "state": {
                 "file": "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
-                "page": 5,
-                "left": -3,
-                "top": 641,
-                "zoom": 1.1
+                "page": 12,
+                "left": 226,
+                "top": 731,
+                "zoom": 2.7
               },
               "icon": "lucide-file-text",
               "title": "Chapter 1"
@@ -102,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "right": {
     "id": "81d91a1b0de98c73",
@@ -234,10 +235,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6cfa042f5d9cf1b9",
+  "active": "0808c3af97483a77",
   "lastOpenFiles": [
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/~$Briefing on Mechanical Properties from Tensile Tests.pptx",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Statics and Friction/ME1103 - Statics and Friction - Lab manual.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
     "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Solidwork simulations/Exercise/2D Truss/Truss_assembly.SLDPRT",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Solidwork simulations/Exercise/2D Truss",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Internal force and moment in slender structure.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf",
+    "Mod Planning.canvas",
+    "Apple Hackathon.md",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static Analysis of Frame and Machine.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Statics Analysis of Truss.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static of Rigid Body.pdf",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023597835.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023574613.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786019227958.webp",
@@ -245,18 +258,7 @@
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786017047436.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016887805.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016864309.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 2 Overview.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 2.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1 Overview.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Key Video Slide Decks/Week 1 Key Video Slides.pdf",
-    "Mods/1K Mods/MA1513/Personal Notes",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Key Video Slide Decks/Revision Lecture Slide Deck.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Lecture Problem Sets/Lecture Problem Set 1.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Past Year Papers/MA1513(2324Sem1)Examplify.pdf",
     "Mods/1K Mods/MA1513/AY2627_Sem1/course_image/matrix.jpg",
-    "Untitled.md",
-    "Mod Planning.canvas",
     "Read Me PLEASE.md",
     "Attachments/Read Me-1785069744519.webp",
     "Attachments/Read Me-1785069648130.webp",
