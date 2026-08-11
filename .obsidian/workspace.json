@@ -46,12 +46,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read Me PLEASE.md",
+                "file": "Textbooks/Gradient Field.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Read Me PLEASE"
+              "title": "Gradient Field"
             }
           }
         ],
@@ -243,8 +243,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "dcdc236e8c8d8d1b",
+  "active": "6e427d554ee60d9c",
   "lastOpenFiles": [
+    "Mod Planning.canvas",
+    "Read Me PLEASE.md",
     "Attachments/Read Me-1785069744519.webp",
     "Attachments/Read Me-1785069648130.webp",
     "Attachments/Read Me-1785069591767.webp",
@@ -252,13 +254,10 @@
     "Attachments/Read Me-1785069421782.webp",
     "Attachments/Read Me-1785069133675.webp",
     "Mods/1K Mods/CS1010E/Notes/8. Multi-Dimensional Array.md",
-    "Read Me PLEASE.md",
     "Attachments/Read Me-1785068970732.webp",
     "Attachments/Read Me-1785068458711.webp",
     "Attachments/Read Me-1785067932793.webp",
     "Attachments/Read Me-1785067716902.webp",
-    "Attachments/Read Me-1785067691112.webp",
-    "Mod Planning.canvas",
     "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
     "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
     "Mods/1K Mods/MA1505/Personal Notes/10. Surface Integrals.md",
