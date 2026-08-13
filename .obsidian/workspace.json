@@ -22,8 +22,37 @@
               "icon": "lucide-file-text",
               "title": "ME1103 - Review on Force and Moment"
             }
+          },
+          {
+            "id": "1dcc8de447364768",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "4f59fd2ebf6e703d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-file-color/data.json",
+                "bFile": ".obsidian/plugins/obsidian-file-color/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,10 +243,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6cfa042f5d9cf1b9",
+  "active": "4f59fd2ebf6e703d",
   "lastOpenFiles": [
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+    "conflict-files-obsidian-git.md",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Review on Force and Moment.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/~$Briefing on Mechanical Properties from Tensile Tests.pptx",
@@ -229,7 +259,6 @@
     "Mod Planning.canvas",
     "Apple Hackathon.md",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static Analysis of Frame and Machine.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Statics Analysis of Truss.pdf",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023597835.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023574613.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786019227958.webp",
@@ -263,7 +292,6 @@
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019+v3 Answers.md",
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019-template.md",
     "CS1010E-PE2-2019-template.md",
-    "Mods/1K Mods/CS1010E/Notes/12. Error and Exception Handling.md",
-    "Mods/1K Mods/CS1010E/Notes/10. Map, Filter, Deepmap.md"
+    "Mods/1K Mods/CS1010E/Notes/12. Error and Exception Handling.md"
   ]
 }
