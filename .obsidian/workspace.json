@@ -13,36 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
-                "page": 4,
-                "left": -30,
-                "top": 845,
-                "zoom": 0.6600161225312373
+                "file": "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Review on Force and Moment.pdf",
+                "page": 17,
+                "left": -11,
+                "top": 544,
+                "zoom": 1.4153846153846155
               },
               "icon": "lucide-file-text",
-              "title": "ME1103 - Mechanical Properties from Tensile Tests - Lab manual"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9f49bc7adf9bddef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5b9dcd9612da2b46",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
-                "page": 12,
-                "left": 226,
-                "top": 731,
-                "zoom": 2.7
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter 1"
+              "title": "ME1103 - Review on Force and Moment"
             }
           }
         ]
@@ -104,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "right": {
     "id": "81d91a1b0de98c73",
@@ -235,22 +214,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0808c3af97483a77",
+  "active": "6cfa042f5d9cf1b9",
   "lastOpenFiles": [
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Review on Force and Moment.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/~$Briefing on Mechanical Properties from Tensile Tests.pptx",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Statics and Friction/ME1103 - Statics and Friction - Lab manual.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
     "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Solidwork simulations/Exercise/2D Truss/Truss_assembly.SLDPRT",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Solidwork simulations/Exercise/2D Truss",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Internal force and moment in slender structure.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf",
     "Mod Planning.canvas",
     "Apple Hackathon.md",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static Analysis of Frame and Machine.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Statics Analysis of Truss.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static of Rigid Body.pdf",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023597835.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023574613.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786019227958.webp",
