@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e3df857085b1b481",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6cfa042f5d9cf1b9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "ME1103 - Mechanical Properties from Tensile Tests - Lab manual"
-            }
-          }
-        ]
-      },
-      {
         "id": "9f49bc7adf9bddef",
         "type": "tabs",
         "children": [
@@ -33,12 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+                "file": "ay2026-2027.pdf",
                 "page": 1,
-                "zoom": 1
+                "left": -19,
+                "top": 596,
+                "zoom": 0.8762254901960784
               },
               "icon": "lucide-file-text",
-              "title": "Chapter 1"
+              "title": "ay2026-2027"
             }
           }
         ]
@@ -233,20 +215,23 @@
   },
   "active": "0808c3af97483a77",
   "lastOpenFiles": [
+    "ay2026-2027.pdf",
+    "Untitled.md",
+    "Mods/2K Mods/CDE2301",
+    "Mods/2K Mods/ME2102",
+    "Mods/2K Mods",
+    "Mod Planning.canvas",
+    "Attachments/Read Me-1785067691112.webp",
+    "My Timetable.pdf",
+    "Read Me PLEASE.md",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/~$Briefing on Mechanical Properties from Tensile Tests.pptx",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Statics and Friction/ME1103 - Statics and Friction - Lab manual.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
     "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Solidwork simulations/Exercise/2D Truss/Truss_assembly.SLDPRT",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Solidwork simulations/Exercise/2D Truss",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Internal force and moment in slender structure.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf",
-    "Mod Planning.canvas",
     "Apple Hackathon.md",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static Analysis of Frame and Machine.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Statics Analysis of Truss.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static of Rigid Body.pdf",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023597835.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023574613.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786019227958.webp",
@@ -255,9 +240,7 @@
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016887805.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016864309.webp",
     "Mods/1K Mods/MA1513/AY2627_Sem1/course_image/matrix.jpg",
-    "Read Me PLEASE.md",
     "Attachments/Read Me-1785069744519.webp",
-    "Attachments/Read Me-1785069648130.webp",
     "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
     "Textbooks/Gradient Field.md",
     "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
@@ -280,7 +263,6 @@
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019+v3 Answers.md",
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019-template.md",
     "CS1010E-PE2-2019-template.md",
-    "Mods/1K Mods/CS1010E/Notes/12. Error and Exception Handling.md",
-    "Mods/1K Mods/CS1010E/Notes/10. Map, Filter, Deepmap.md"
+    "Mods/1K Mods/CS1010E/Notes/12. Error and Exception Handling.md"
   ]
 }
