@@ -8,19 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b9dcd9612da2b46",
+            "id": "fc5e8c8c4028668b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ay2026-2027.pdf",
-                "page": 1,
-                "left": -19,
-                "top": 596,
-                "zoom": 0.8762254901960784
+                "file": "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Review on Force and Moment.pdf",
+                "page": 34,
+                "left": -3,
+                "top": 543,
+                "zoom": 0.74
               },
               "icon": "lucide-file-text",
-              "title": "ay2026-2027"
+              "title": "ME1103 - Review on Force and Moment"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3b52d44b4370db38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19ee75c048d414ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mods/1K Mods/ME1103/Personal Notes/1. Review on Force and Moment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Review on Force and Moment"
             }
           }
         ]
@@ -160,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
+                "file": "Mods/1K Mods/ME1103/Personal Notes/1. Review on Force and Moment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11. Python Object Oriented Programming"
+              "title": "Outline"
             }
           },
           {
@@ -213,36 +233,38 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "dcdc236e8c8d8d1b",
+  "active": "19ee75c048d414ac",
   "lastOpenFiles": [
-    "Untitled.md",
-    "ay2026-2027.pdf",
-    "Mods/2K Mods/CDE2301",
-    "Mods/2K Mods/ME2102",
-    "Mods/2K Mods",
+    "Textbooks/Vector Mechanics For Engineers_ Dynamics 11Thtedition -- Ferdinand P_ Beer, E_ Russel Johnston Jr_, Phillip J_ -- 11, 2017 jan 01 -- McGraw-Hill -- isbn13 9789352601608 -- dd3510871a6162c96a8dd12b57b0c5c9 -- Anna’s .pdf",
+    "Mods/1K Mods/ME1103/Personal Notes/1. Review on Force and Moment.md",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Review on Force and Moment.pdf",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786677843634.webp",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786677763659.webp",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786674546364.webp",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static Analysis of Frame and Machine.pdf",
+    "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
+    "Mods/1K Mods/ME1103/Untitled.md",
+    "Mods/1K Mods/ME1103/Personal Notes",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+    "hho.md",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 2.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 3.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 4.pdf",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786627040190.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786626599054.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786626304129.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786626291441.webp",
+    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
+    "Textbooks/Gradient Field.md",
     "Mod Planning.canvas",
     "Attachments/Read Me-1785067691112.webp",
-    "My Timetable.pdf",
     "Read Me PLEASE.md",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/~$Briefing on Mechanical Properties from Tensile Tests.pptx",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Statics and Friction/ME1103 - Statics and Friction - Lab manual.pdf",
-    "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Solidwork simulations/Exercise/2D Truss/Truss_assembly.SLDPRT",
     "Apple Hackathon.md",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023597835.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023574613.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786019227958.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786018441464.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786017047436.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016887805.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016864309.webp",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/course_image/matrix.jpg",
-    "Attachments/Read Me-1785069744519.webp",
     "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
-    "Textbooks/Gradient Field.md",
-    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
     "Mods/1K Mods/MA1505/MA1505 Canvas.canvas",
     "Line Integrals.md",
     "Mods/1K Mods/MA1505/Personal Notes/10. Surface Integrals.md",
@@ -260,8 +282,6 @@
     "Concepts/Chain Rule.md",
     "Concepts/Curl and Divergence.md",
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019+v3 Answers.md",
-    "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019-template.md",
-    "CS1010E-PE2-2019-template.md",
-    "Mods/1K Mods/CS1010E/Notes/12. Error and Exception Handling.md"
+    "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019-template.md"
   ]
 }
