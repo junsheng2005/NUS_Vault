@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "12e320b53eed7fd0",
+        "id": "46b1f7f34b6c9e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "3b664d594ec244bc",
+            "id": "9b65961d321f2c7a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "pdf",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Tutorials/Problem set 1 - Questions.pdf",
+                "page": 2,
+                "left": -38,
+                "top": 544,
+                "zoom": 0.41250000000000003
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "icon": "lucide-file-text",
+              "title": "Problem set 1 - Questions"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ca9b5e9bba6da882",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "733665770540021f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mods/1K Mods/ME1103/Personal Notes/1. Review on Force and Moment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Review on Force and Moment"
             }
           }
         ]
@@ -81,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "right": {
     "id": "81d91a1b0de98c73",
@@ -213,34 +233,34 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3b664d594ec244bc",
+  "active": "dcdc236e8c8d8d1b",
   "lastOpenFiles": [
+    "Mods/1K Mods/ME1103/Personal Notes/1. Review on Force and Moment.md",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Statics Analysis of Truss.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static of Rigid Body.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static Analysis of Frame and Machine.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Review on Force and Moment.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Principle of Virtual Work.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Tutorials/Problem set 1 - Questions.pdf",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786717658528.webp",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786717570863.webp",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786717295567.webp",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786716657621.webp",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786716228909.webp",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786715533928.webp",
     "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786674546364.webp",
     "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
     "conflict-files-obsidian-git.md",
     "hho.md",
     "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786677763659.webp",
     "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786677843634.webp",
-    "Mods/1K Mods/ME1103/Personal Notes/1. Review on Force and Moment.md",
     "Mods/1K Mods/ME1103/Personal Notes/Attachments",
     "Mods/1K Mods/ME1103/Personal Notes",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786627040190.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786626599054.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786626304129.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786626291441.webp",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Lecture Problem Sets/Lecture Problem Set 1.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Review on Force and Moment.pdf",
-    "Untitled.base",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/~$Briefing on Mechanical Properties from Tensile Tests.pptx",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Statics and Friction/ME1103 - Statics and Friction - Lab manual.pdf",
     "Mod Planning.canvas",
     "Apple Hackathon.md",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023597835.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023574613.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786019227958.webp",
     "Read Me PLEASE.md",
     "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
     "Textbooks/Gradient Field.md",
