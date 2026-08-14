@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e3df857085b1b481",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6cfa042f5d9cf1b9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
-                "page": 12,
-                "left": -27,
-                "top": 846,
-                "zoom": 0.7596754686555129
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter 1"
-            }
-          }
-        ]
-      },
-      {
         "id": "12e320b53eed7fd0",
         "type": "tabs",
         "children": [
@@ -33,14 +11,15 @@
             "id": "3b664d594ec244bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1. Linear System and Matrix Algebra"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
         ]
@@ -236,31 +215,33 @@
   },
   "active": "3b664d594ec244bc",
   "lastOpenFiles": [
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786674546364.webp",
     "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
+    "conflict-files-obsidian-git.md",
+    "hho.md",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786677763659.webp",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786677843634.webp",
+    "Mods/1K Mods/ME1103/Personal Notes/1. Review on Force and Moment.md",
+    "Mods/1K Mods/ME1103/Personal Notes/Attachments",
+    "Mods/1K Mods/ME1103/Personal Notes",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786627040190.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786626599054.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786626304129.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786626291441.webp",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
     "Mods/1K Mods/MA1513/AY2627_Sem1/Lecture Problem Sets/Lecture Problem Set 1.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Review on Force and Moment.pdf",
     "Untitled.base",
-    "conflict-files-obsidian-git.md",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/~$Briefing on Mechanical Properties from Tensile Tests.pptx",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Statics and Friction/ME1103 - Statics and Friction - Lab manual.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Solidwork simulations/Exercise/2D Truss/Truss_assembly.SLDPRT",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Solidwork simulations/Exercise/2D Truss",
     "Mod Planning.canvas",
     "Apple Hackathon.md",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023597835.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023574613.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786019227958.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786018441464.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786017047436.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016887805.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016864309.webp",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/course_image/matrix.jpg",
     "Read Me PLEASE.md",
-    "Attachments/Read Me-1785069744519.webp",
-    "Attachments/Read Me-1785069648130.webp",
     "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
     "Textbooks/Gradient Field.md",
     "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
@@ -281,8 +262,6 @@
     "Concepts/Chain Rule.md",
     "Concepts/Curl and Divergence.md",
     "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019+v3 Answers.md",
-    "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019-template.md",
-    "CS1010E-PE2-2019-template.md",
-    "Mods/1K Mods/CS1010E/Notes/12. Error and Exception Handling.md"
+    "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019-template.md"
   ]
 }
