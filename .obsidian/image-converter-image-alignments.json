@@ -71,198 +71,40 @@
       "width": "",
       "height": "",
       "wrap": false
-    },
-    "669e34c7e192ae7cd5a7086cc9cf978a": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "b47d390af564093548244334e08b87b2": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "81a0c083409443529821ee457f0d6120": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
     }
   },
-  "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Review on Force and Moment.pdf": {
-    "8458d47fac164af6a4f9728b00880c37": {
+  "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md": {
+    "62f46d687dccac6b551026877549202f": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "807b711015b541ea02a2be005ae65745": {
+    "3abeefc58a8accef3b54651bb613feb6": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "56e0c8fc085b81dd6026171ba1ad1d0b": {
+    "f75e8dc53fc888a88f5c794ab622359f": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "adbd1a3901052d092acf02a04ed9f556": {
+    "b25ae8acac90565a739fce0438c94238": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "d192ead1ac4b64b6caf33a1ca1ed5c76": {
+    "c6c94c421cadcb07fe68eda0976cecc0": {
       "position": "center",
       "width": "",
       "height": "",
       "wrap": false
     },
-    "6f4ac133b944dd5e807e84db54c8ebf6": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
-  "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Tutorials/Problem set 1 - Questions.pdf": {
-    "d76a0de870a8a53be28d33bb85bad1fa": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "e8c049c46448ab95186694e67e94ad41": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "5b17ac5ea24363e2fe70591a057d271f": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
-  "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf": {
-    "67fd03f9a097c72654ae560756f33a46": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "70b0ba82ece1f4202e1fab704472ed47": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "6761ea5b78a757c78dbda5547fdfd3f4": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
-  "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Principle of Virtual Work.pdf": {
-    "bffe2f9f88d04d45586bfffccd0c30c0": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "20ea69ea77a7940974598599e1222baf": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "32b36c4e0b5be1ce8f39b314f70cd92c": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
-  "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static Analysis of Frame and Machine.pdf": {
-    "1a81cb940e825bdd0dab3dba2269921a": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "a9792efe3554853bddbef0b87cf9bb64": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "f34d8683301c8bcaa1dc3a7e9a10e583": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
-  "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static of Rigid Body.pdf": {
-    "db872f259e10ff19be8291f0613a10d5": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "58e1c1ab84b522fc7d35f390c32c360c": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "742cff9aef556a3a7beb06f352286ac0": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
-  "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Statics Analysis of Truss.pdf": {
-    "df750d8f28e3e9debfc71466354e3403": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "72d898839be468fb24e4ee6af25e1239": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "c8397dd60ebfbb14172abbabafc8723c": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
-  "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf": {
-    "b357b9655b739449d11ec36f2551e8f1": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "dd092ca0badb341094f4533c1c95d7b5": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "362f6b40aa82ec20f22732161c8f6df7": {
+    "492d4352e4400af4a34d9c63ce50d2f3": {
       "position": "center",
       "width": "",
       "height": "",

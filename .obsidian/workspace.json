@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Tutorials/Problem set 1 - Questions.pdf",
-                "page": 2,
-                "left": -38,
-                "top": 544,
-                "zoom": 0.41250000000000003
+                "file": "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+                "page": 25,
+                "left": -17,
+                "top": 845,
+                "zoom": 0.8944769199758112
               },
               "icon": "lucide-file-text",
-              "title": "Problem set 1 - Questions"
+              "title": "Chapter 1"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/1K Mods/ME1103/Personal Notes/1. Review on Force and Moment.md",
+                "file": "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Review on Force and Moment"
+              "title": "1. Linear System and Matrix Algebra"
             }
           }
         ]
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "right": {
     "id": "81d91a1b0de98c73",
@@ -233,17 +234,28 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "dcdc236e8c8d8d1b",
+  "active": "733665770540021f",
   "lastOpenFiles": [
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+    "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794447959.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794136990.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794044374.webp",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Review on Force and Moment.pdf",
+    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Tutorials/Problem set 1 - Questions.pdf",
+    "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
+    "Mods/1K Mods/MA1505/Personal Notes/10. Surface Integrals.md",
+    "Mods/1K Mods/MA1505/Lecture Notes/chapter1.pdf",
+    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
+    "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
+    "Mods/1K Mods/MA1505/MA1505 Canvas.canvas",
     "Mods/1K Mods/ME1103/Personal Notes/1. Review on Force and Moment.md",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Statics Analysis of Truss.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static of Rigid Body.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static Analysis of Frame and Machine.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Review on Force and Moment.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Principle of Virtual Work.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Tutorials/Problem set 1 - Questions.pdf",
     "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786717658528.webp",
     "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786717570863.webp",
     "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786717295567.webp",
@@ -251,27 +263,16 @@
     "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786716228909.webp",
     "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786715533928.webp",
     "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786674546364.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
     "conflict-files-obsidian-git.md",
     "hho.md",
-    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786677763659.webp",
-    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786677843634.webp",
-    "Mods/1K Mods/ME1103/Personal Notes/Attachments",
-    "Mods/1K Mods/ME1103/Personal Notes",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786627040190.webp",
     "Mod Planning.canvas",
     "Apple Hackathon.md",
     "Read Me PLEASE.md",
     "Mods/1K Mods/MA1505/Personal Notes/9. Line Integral.md",
     "Textbooks/Gradient Field.md",
-    "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
-    "Mods/1K Mods/MA1505/MA1505 Canvas.canvas",
     "Line Integrals.md",
-    "Mods/1K Mods/MA1505/Personal Notes/10. Surface Integrals.md",
-    "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
     "Concepts/Work Done.md",
     "Mods/1K Mods/CS1010E/CS1010E Canvas.canvas",
-    "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
     "Partial Derivatives.md",
     "Mod Planning.md",
     "Excel 2026-07-08 10.18.33.univer.md",
