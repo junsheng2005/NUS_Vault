@@ -11,14 +11,16 @@
             "id": "733665770540021f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mods/1K Mods/MA1513/Personal Notes/Mat Lab.md",
-                "mode": "source",
-                "source": false
+                "file": "Mods/2K Mods/CDE2301/AY2627_Sem1/Lecture Slides/Week 1_Course Introduction-1.pdf",
+                "page": 20,
+                "left": -3,
+                "top": 415,
+                "zoom": 1.12
               },
-              "icon": "lucide-file",
-              "title": "Mat Lab"
+              "icon": "lucide-file-text",
+              "title": "Week 1_Course Introduction-1"
             }
           }
         ]
@@ -212,10 +214,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "733665770540021f",
+  "active": "dcdc236e8c8d8d1b",
   "lastOpenFiles": [
+    "Mods/1K Mods/CS1010E/Notes/9. Higher Order Functions.md",
+    "Mods/1K Mods/CS1010E/Notes/1. Basic Data Types.md",
+    "Mods/1K Mods/ME1103/Personal Notes/1. Review on Force and Moment.md",
     "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
+    "ay2026-2027.pdf",
+    "My Timetable.pdf",
+    "hho.md",
+    "Mods/2K Mods/CDE2301/AY2627_Sem1/Lecture Slides/Week 1_Course Introduction-1.pdf",
     "Mods/1K Mods/MA1513/Personal Notes/Mat Lab.md",
+    "Mods/2K Mods/CDE2301/AY2627_Sem1/Lecture Slides",
+    "Mods/2K Mods/CDE2301/AY2627_Sem1",
+    "Mods/2K Mods/CDE2301",
+    "Mods/2K Mods",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794447959 1.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016864309.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794136990 1.webp",
@@ -231,19 +244,10 @@
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Tutorials/Problem set 1 - Questions.pdf",
     "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
     "Mods/1K Mods/MA1505/Personal Notes/10. Surface Integrals.md",
-    "Mods/1K Mods/MA1505/Lecture Notes/chapter1.pdf",
     "Mods/1K Mods/MA1505/Personal Notes/7. Functions of Several Variables.md",
     "Mods/1K Mods/MA1505/Personal Notes/8. Multiple Integrals.md",
     "Mods/1K Mods/MA1505/MA1505 Canvas.canvas",
-    "Mods/1K Mods/ME1103/Personal Notes/1. Review on Force and Moment.md",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Experiments/Material Properties from Tensile tests/ME1103 - Mechanical Properties from Tensile Tests - Lab manual.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Statics Analysis of Truss.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static of Rigid Body.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static Analysis of Frame and Machine.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Principle of Virtual Work.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf",
     "conflict-files-obsidian-git.md",
-    "hho.md",
     "Mod Planning.canvas",
     "Apple Hackathon.md",
     "Read Me PLEASE.md",
@@ -260,8 +264,6 @@
     "Concepts/Surface Integral.md",
     "Concepts/Fundamental Theorem for Calculus.md",
     "Concepts/Chain Rule.md",
-    "Concepts/Curl and Divergence.md",
-    "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019+v3 Answers.md",
-    "Mods/1K Mods/CS1010E/Past Year Papers/Practical Exam/AY_18_19/CS1010E-PE2-2019-template.md"
+    "Concepts/Curl and Divergence.md"
   ]
 }
