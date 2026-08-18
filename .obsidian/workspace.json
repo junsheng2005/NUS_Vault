@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "46b1f7f34b6c9e3d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9b65961d321f2c7a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
-                "page": 25,
-                "left": -17,
-                "top": 845,
-                "zoom": 0.8944769199758112
-              },
-              "icon": "lucide-file-text",
-              "title": "Chapter 1"
-            }
-          }
-        ]
-      },
-      {
         "id": "ca9b5e9bba6da882",
         "type": "tabs",
         "children": [
@@ -102,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "right": {
     "id": "81d91a1b0de98c73",
@@ -236,11 +213,18 @@
   },
   "active": "733665770540021f",
   "lastOpenFiles": [
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794447959 1.webp",
     "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794447959.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794136990.webp",
-    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794044374.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016864309.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794136990 1.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794044374 1.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786627040190 1.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786626599054 1.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786626304129 1.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786626291441 1.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023597835 1.webp",
+    "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786023574613 1.webp",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 1.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Review on Force and Moment.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Tutorials/Problem set 1 - Questions.pdf",
     "Mods/1K Mods/MA1505/Personal Notes/4. Sequences and Series.md",
@@ -256,13 +240,6 @@
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static Analysis of Frame and Machine.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Principle of Virtual Work.pdf",
     "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Course Overview.pdf",
-    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786717658528.webp",
-    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786717570863.webp",
-    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786717295567.webp",
-    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786716657621.webp",
-    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786716228909.webp",
-    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786715533928.webp",
-    "Mods/1K Mods/ME1103/Personal Notes/Attachments/1. Review on Force and Moment-1786674546364.webp",
     "conflict-files-obsidian-git.md",
     "hho.md",
     "Mod Planning.canvas",
