@@ -11,34 +11,33 @@
             "id": "4c94672b01a9234f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mods/1K Mods/MA1513/AY2627_Sem1/Weekly Self Practice Sets/Practice 1.pdf",
-                "page": 1,
-                "left": 73,
-                "top": 492,
-                "zoom": 1.46
-              },
-              "icon": "lucide-file-text",
-              "title": "Practice 1"
-            }
-          },
-          {
-            "id": "c89710cf109b6e99",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
+                "file": "Mods/1K Mods/MA1513/Personal Notes/Mat Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Linear System and Matrix Algebra"
+              "title": "Mat Lab"
+            }
+          },
+          {
+            "id": "338d57abdcf6d925",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Mods/1K Mods/MA1513/AY2627_Sem1/Additional Practice 2/Additional Practice Set 1.pdf",
+                "page": 2,
+                "left": -3,
+                "top": 794,
+                "zoom": 1.14
+              },
+              "icon": "lucide-file-text",
+              "title": "Additional Practice Set 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "right": {
     "id": "81d91a1b0de98c73",
@@ -176,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/1K Mods/CS1010E/Notes/11. Python Object Oriented Programming.md",
+                "file": "Mods/1K Mods/MA1513/Personal Notes/Mat Lab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11. Python Object Oriented Programming"
+              "title": "Outline"
             }
           },
           {
@@ -229,27 +227,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c89710cf109b6e99",
+  "active": "dcdc236e8c8d8d1b",
   "lastOpenFiles": [
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Weekly Self Practice Sets/Practice 1.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/MATLAB/Matlab for Engineering.pdf",
     "Mods/1K Mods/MA1513/Personal Notes/Mat Lab.md",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Additional Practice 2/Additional Practice Set 1.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Additional Practice 2/Additional Practice Set 1 Solution.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Lecture Problem Sets/Lecture Problem Set 1.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Key Video Slide Decks/Revision Lecture Slide Deck.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Key Video Slide Decks/Week 1 Key Video Slides.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Weekly Self Practice Sets/Practice 2.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Weekly Self Practice Sets/Practice 5.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Weekly Self Practice Sets/Practice 4.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Weekly Self Practice Sets/Practice 3.pdf",
+    "Mods/1K Mods/MA1513/AY2627_Sem1/Weekly Self Practice Sets/Practice 1 ans.pdf",
+    "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
     "Mod Planning.canvas",
     "Read Me PLEASE.md",
-    "My Timetable.pdf",
-    "Mods/1K Mods/MA1513/Personal Notes/1. Linear System and Matrix Algebra.md",
     "hho.md",
-    "Untitled.base",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static of Rigid Body.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Static Analysis of Frame and Machine.pdf",
-    "Mods/1K Mods/ME1103/AY2627_Sem1/Part I/Lecture notes/ME1103 - Internal force and moment in slender structure.pdf",
-    "Mods/2K Mods/CDE2301/AY2627_Sem1/Lecture Slides/Week 1_Course Introduction-1.pdf",
     "Mods/1K Mods/CS1010E/Notes/9. Higher Order Functions.md",
     "Mods/1K Mods/CS1010E/Notes/1. Basic Data Types.md",
     "Mods/1K Mods/ME1103/Personal Notes/1. Review on Force and Moment.md",
-    "ay2026-2027.pdf",
-    "Mods/2K Mods/CDE2301/AY2627_Sem1/Lecture Slides",
-    "Mods/2K Mods/CDE2301/AY2627_Sem1",
-    "Mods/2K Mods/CDE2301",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794447959 1.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786016864309.webp",
     "Mods/1K Mods/MA1513/Personal Notes/Attachments/1. Linear System and Matrix Algebra-1786794136990 1.webp",
