@@ -465,17 +465,17 @@ $$
 
 ## Quick Answer Summary
 
-| Part | Answer |
-|---|---|
-| 1(i) | $\det(A)=5$; $A$ is non-singular |
-| 1(ii) | $\det(B)=0$; $B$ is singular |
-| 1(iii) | $B^Tx=0$ and $BAx=0$ have non-trivial solutions |
-| 2(i) | Yes; $x=u+2v+w$ |
-| 2(ii) | No |
+| Part   | Answer                                                                                                                              |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1(i)   | $\det(A)=5$; $A$ is non-singular                                                                                                    |
+| 1(ii)  | $\det(B)=0$; $B$ is singular                                                                                                        |
+| 1(iii) | $B^Tx=0$ and $BAx=0$ have non-trivial solutions                                                                                     |
+| 2(i)   | Yes; $x=u+2v+w$                                                                                                                     |
+| 2(ii)  | No                                                                                                                                  |
 | 2(iii) | $\operatorname{span}\{u,v,w\}=\operatorname{span}\{u,v,w,x\}$ and $\operatorname{span}\{u,v,w,y\}=\operatorname{span}\{u,v,w,x,y\}$ |
-| 3(i) | $(x,y,z,w)=(-2s-t,s,s,t)$ |
-| 3(ii) | Basis $\{(-2,1,1,0),(-1,0,0,1)\}$ |
-| 3(iii) | Span of the same two basis vectors |
-| 4(i) | Basis $\{(1,0,1),(0,1,1)\}$ |
-| 4(ii) | $\hat x=(1-t,\frac43-t,t)^T$; e.g. $(1,\frac43,0)^T$ |
-| 4(iii) | $(1,\frac43,\frac73,-\frac13)^T$ |
+| 3(i)   | $(x,y,z,w)=(-2s-t,s,s,t)$                                                                                                           |
+| 3(ii)  | Basis $\{(-2,1,1,0),(-1,0,0,1)\}$                                                                                                   |
+| 3(iii) | Span of the same two basis vectors                                                                                                  |
+| 4(i)   | Basis $\{(1,0,1),(0,1,1)\}$                                                                                                         |
+| 4(ii)  | $\hat x=(1-t,\frac43-t,t)^T$; e.g. $(1,\frac43,0)^T$                                                                                |
+| 4(iii) | $(1,\frac43,\frac73,-\frac13)^T$                                                                                                    |

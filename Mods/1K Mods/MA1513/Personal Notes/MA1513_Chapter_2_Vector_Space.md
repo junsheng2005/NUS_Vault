@@ -228,9 +228,9 @@ The normal-equation system is consistent. Any solution is a least squares soluti
 ![[Attachments/06_least_squares_example.png]]
 
 ### Connection to projection
-If $\mathbf u$ is a least squares solution, then
+If $\mathbf x_{0}$ is a least squares solution, then
 $$
-A\mathbf u=\mathbf p,
+A\mathbf x_{0}=\mathbf p,
 $$
 where $\mathbf p$ is the projection of $\mathbf b$ onto the **column space of $A$**.
 
