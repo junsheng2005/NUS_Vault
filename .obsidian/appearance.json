@@ -1,6 +1,6 @@
 {
   "cssTheme": "AnuPpuccin",
-  "baseFontSize": 21,
+  "baseFontSize": 24,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "scroll-blocks"
