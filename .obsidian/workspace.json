@@ -23,14 +23,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Mods/1K Mods/MA1512/Lecture Notes/MA1512-Lecture Notes (Chapters 1-5).pdf",
+                "file": "Mods/1K Mods/MA1512/AY2627_Sem1/A Book of Problems.pdf",
                 "page": 1,
                 "left": -11,
-                "top": 796,
-                "zoom": 1.343137254901961
+                "top": 493,
+                "zoom": 1.380872066066833
               },
               "icon": "lucide-file-text",
-              "title": "MA1512-Lecture Notes (Chapters 1-5)"
+              "title": "A Book of Problems"
             }
           }
         ],
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/1K Mods/MA1512/Lecture Notes/MA1512-Lecture Notes (Chapters 1-5).pdf",
+                "file": "Mods/1K Mods/MA1512/AY2627_Sem1/A Book of Problems.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -238,12 +238,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "dcdc236e8c8d8d1b",
+  "active": "1e2320adbc94faf3",
   "lastOpenFiles": [
+    "Mods/1K Mods/MA1512/Past Years/Lecture Notes/MA1512-Lecture Notes (Chapters 1-5).pdf",
+    "Mods/1K Mods/MA1512/AY2627_Sem1/§1 – An Introduction to Differential Equations.pdf",
+    "Mods/1K Mods/MA1512/AY2627_Sem1/A Book of Examples.pdf",
+    "Mods/1K Mods/MA1512/AY2627_Sem1/A Book of Problems.pdf",
+    "Mods/1K Mods/MA1512/Past Years",
     "Untitled",
     "Mods/1K Mods/MA1512/AY2627_Sem1",
-    "Mods/1K Mods/MA1512/Lecture Notes/MA1512-Chapter 1.pdf",
-    "Mods/1K Mods/MA1512/Lecture Notes/MA1512-Chapter 2.pdf",
+    "Mods/1K Mods/MA1512/Past Years/Lecture Notes/MA1512-Chapter 1.pdf",
+    "Mods/1K Mods/MA1512/Past Years/Lecture Notes/MA1512-Chapter 2.pdf",
     "Mods/1K Mods/PF1101A/AI Summerised Notes/PF1101A_Chapter_9_Project_Quality_Management.md",
     "Mods/1K Mods/PF1101A/AI Summerised Notes/Attachments/CONQUAS Benchmark.png",
     "Mods/1K Mods/PF1101A/AI Summerised Notes/Attachments/Quality Principles Marginal Improvement.png",
@@ -257,12 +262,7 @@
     "Mods/1K Mods/PF1101A/AI Summerised Notes/Attachments/Control Chart.png",
     "Mods/1K Mods/MA1513/AY2627_Sem1/Chapter overview and detailed notes/Chapter 4.pdf",
     "Mods/1K Mods/MA1513/AY2627_Sem1/Past Year Papers/MA1513(2324Sem2)Examplify.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Past Year Papers/MA1513(2425Sem1)Examplify.pdf",
     "Mods/1K Mods/MA1513/Personal Notes/Mat Lab.md",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Past Year Papers/MA1513(2526Sem1)Examplify.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Past Year Papers/MA1513(2526Sem1)Examplify_Solution.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Past Year Papers/MA1513(2425Sem2)Examplify_Solution.pdf",
-    "Mods/1K Mods/MA1513/AY2627_Sem1/Past Year Papers/MA1513(2425Sem1)Examplify_Solution.pdf",
     "Mods/1K Mods/MA1513/Personal Notes/MA1513_Important_Concepts_and_Relationships.md",
     "Mods/1K Mods/MA1513/Personal Notes/MA1513_Chapter_3_Linear_Transformation_Eigenvalues_and_Eigenvectors.md",
     "Mods/1K Mods/MA1513/Personal Notes/MA1513_Chapter_2_Vector_Space.md",
