@@ -429,8 +429,8 @@ This supply-chain view supports the broader analysis of industry structure by sh
 
 The lecture presents a three-part competitive-analysis structure.
 
-| Competitor | Competitor's Unique Value Proposition | Response |
-|---|---|---|
+| Competitor                                                                                                      | Competitor's Unique Value Proposition                        | Response                                                                         |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | Who is already addressing your market (**existing competitor**), and who is about to arrive (**new entrants**)? | What is the value proposition for the competitor's products? | How will you compete with this competitor and why? — **ignore, monitor, action** |
 
 A useful competitive analysis therefore requires more than naming competitors. It connects each competitor to its Value Proposition and then determines an appropriate response.

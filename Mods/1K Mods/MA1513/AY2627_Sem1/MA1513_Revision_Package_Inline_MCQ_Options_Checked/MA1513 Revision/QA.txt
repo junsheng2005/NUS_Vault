@@ -1,0 +1,8 @@
+MA1513 revision package - visual QA
+
+Screenshot source rule: all question visuals are cropped from the clean Examplify papers, not the solution/answer-key PDFs.
+Crop rule: complete visual object, all labels/arrows/axes/borders preserved, minimal surrounding whitespace, no answer annotations.
+
+MCQ question headings: 45
+MCQ worked solutions: 45
+Attachments: 7
